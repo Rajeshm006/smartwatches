@@ -1,0 +1,14 @@
+{
+  "name": "@rajeshm006/this-is-a-page-for-narrative-header",
+  "main": "d43c2c1750281178@50.js",
+  "version": "50.0.0",
+  "homepage": "https://observablehq.com/@rajeshm006/this-is-a-page-for-narrative-header",
+  "author": {
+    "name": "Rajesh Manoharan",
+    "url": "https://observablehq.com/@rajeshm006"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
