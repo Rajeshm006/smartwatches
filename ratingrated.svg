@@ -1,0 +1,279 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1195.063" height="936.677" viewBox="0 0 1195.063 936.677">
+  <defs>
+    <filter id="Ellipse_74" x="852.563" y="553.177" width="91" height="92" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#f28e2c"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_76" x="804.284" y="623.377" width="63.958" height="63.959" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#af7aa1"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_77" x="747.059" y="715.699" width="58.77" height="58.77" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#af7aa1"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_78" x="869.154" y="325.816" width="57.373" height="57.373" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#4e79a7"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_79" x="869.679" y="627.194" width="56.323" height="56.323" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#4e79a7"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_81" x="872.341" y="614.021" width="51" height="51" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#76b7b2"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_373" x="825" y="556" width="19" height="86" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-color="#af7aa1"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_374" x="903.337" y="651.027" width="111.325" height="50.946" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-color="#4e79a7"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_360" data-name="Group 360" transform="translate(-708 -127)">
+    <g id="Group_291" data-name="Group 291" transform="translate(0 -1281)">
+      <g id="Group_285" data-name="Group 285" transform="translate(316 -61)">
+        <g id="Group_26" data-name="Group 26" transform="translate(-850 1343)">
+          <rect id="Rectangle_442" data-name="Rectangle 442" width="38" height="38" transform="translate(1513 196)" fill="#5878a3"/>
+          <text id="Zebronic" transform="translate(1565 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Zebronic</tspan></text>
+        </g>
+        <g id="Group_25" data-name="Group 25" transform="translate(-972 1343)">
+          <rect id="Rectangle_442-2" data-name="Rectangle 442" width="38" height="38" transform="translate(1513 196)" fill="#b8b0ac"/>
+          <text id="Tokidis" transform="translate(1565 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Tokidis</tspan></text>
+        </g>
+        <g id="Group_24" data-name="Group 24" transform="translate(-964 1343)">
+          <rect id="Rectangle_442-3" data-name="Rectangle 442" width="38" height="38" transform="translate(1357 196)" fill="#967762"/>
+          <text id="Tagg" transform="translate(1409 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Tagg</tspan></text>
+        </g>
+        <g id="Group_23" data-name="Group 23" transform="translate(189 1273)">
+          <rect id="Rectangle_442-4" data-name="Rectangle 442" width="38" height="38" transform="translate(1201 196)" fill="#f1a1a8"/>
+          <text id="Realme" transform="translate(1253 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Realme</tspan></text>
+        </g>
+        <g id="Group_22" data-name="Group 22" transform="translate(214 1273)">
+          <rect id="Rectangle_442-5" data-name="Rectangle 442" width="38" height="38" transform="translate(1045 196)" fill="#a77c9f"/>
+          <text id="Noise" transform="translate(1097 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Noise</tspan></text>
+        </g>
+        <g id="Group_21" data-name="Group 21" transform="translate(220 1273)">
+          <rect id="Rectangle_442-6" data-name="Rectangle 442" width="38" height="38" transform="translate(889 196)" fill="#e7ca60"/>
+          <text id="Maxima" transform="translate(941 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Maxima</tspan></text>
+        </g>
+        <g id="Group_20" data-name="Group 20" transform="translate(271 1273)">
+          <rect id="Rectangle_442-7" data-name="Rectangle 442" width="38" height="38" transform="translate(733 196)" fill="#6a9f58"/>
+          <text id="IZI" transform="translate(785 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">IZI</tspan></text>
+        </g>
+        <g id="Group_19" data-name="Group 19" transform="translate(264 1273)">
+          <rect id="Rectangle_442-8" data-name="Rectangle 442" width="38" height="38" transform="translate(577 196)" fill="#85b5b2"/>
+          <text id="Fire_Boltt" data-name="Fire Boltt" transform="translate(629 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Fire Boltt</tspan></text>
+        </g>
+        <g id="Group_16" data-name="Group 16" transform="translate(242 1273)">
+          <rect id="Rectangle_442-9" data-name="Rectangle 442" width="38" height="38" transform="translate(421 196)" fill="#d1605e"/>
+          <text id="Crossbeats" transform="translate(473 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Crossbeats</tspan></text>
+        </g>
+        <g id="Group_17" data-name="Group 17" transform="translate(276 1273)">
+          <rect id="Rectangle_442-10" data-name="Rectangle 442" width="38" height="38" transform="translate(265 196)" fill="#e49344"/>
+          <text id="Boat" transform="translate(317 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Boat</tspan></text>
+        </g>
+        <g id="Group_18" data-name="Group 18" transform="translate(284 1273)">
+          <rect id="Rectangle_442-11" data-name="Rectangle 442" width="38" height="38" transform="translate(109 196)" fill="#5878a3"/>
+          <text id="Amazfit" transform="translate(161 223)" fill="#fff" font-size="20" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Amazfit</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_283" data-name="Group 283" transform="translate(316.063 -1303.323)">
+      <g id="Group_274" data-name="Group 274" transform="translate(168 1146)">
+        <g id="Group_253" data-name="Group 253" transform="translate(-410 -536.654)">
+          <g id="Rectangle_455" data-name="Rectangle 455" transform="translate(1573 1351.654)" fill="#f28e2c" stroke="#707070" stroke-width="1">
+            <rect width="162" height="37" rx="18.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="161" height="36" rx="18" fill="none"/>
+          </g>
+          <rect id="Rectangle_456" data-name="Rectangle 456" width="162" height="37" rx="18.5" transform="translate(1573 1351.654)" fill="#fff"/>
+        </g>
+        <text id="boAt_Xtend" data-name="boAt Xtend" transform="translate(1299 842)" font-size="22" font-family="Lato-Regular, Lato"><tspan x="-109.45" y="0">boAt Xtend</tspan></text>
+      </g>
+      <g id="Group_281" data-name="Group 281" transform="translate(-70 951)">
+        <g id="Group_253-2" data-name="Group 253" transform="translate(-483 -536.654)">
+          <g id="Rectangle_455-2" data-name="Rectangle 455" transform="translate(1573 1351.654)" fill="#4e79a7" stroke="#707070" stroke-width="1">
+            <rect width="235" height="37" rx="18.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="234" height="36" rx="18" fill="none"/>
+          </g>
+          <rect id="Rectangle_456-2" data-name="Rectangle 456" width="235" height="37" rx="18.5" transform="translate(1573 1351.654)" fill="#fff"/>
+        </g>
+        <text id="Amazfit_GTS_2_mini" data-name="Amazfit GTS 2 mini" transform="translate(1299 842)" font-size="22" font-family="Lato-Regular, Lato"><tspan x="-182.93" y="0">Amazfit GTS 2 mini</tspan></text>
+      </g>
+      <g id="Group_282" data-name="Group 282" transform="translate(262 1289)">
+        <g id="Group_253-3" data-name="Group 253" transform="translate(-438 -536.654)">
+          <g id="Rectangle_455-3" data-name="Rectangle 455" transform="translate(1573 1351.654)" fill="#4e79a7" stroke="#707070" stroke-width="1">
+            <rect width="190" height="37" rx="18.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="189" height="36" rx="18" fill="none"/>
+          </g>
+          <rect id="Rectangle_456-3" data-name="Rectangle 456" width="190" height="37" rx="18.5" transform="translate(1573 1351.654)" fill="#fff"/>
+        </g>
+        <text id="Amzzitfit_Bit_U" data-name="Amzzitfit Bit U" transform="translate(1299 842)" font-size="22" font-family="Lato-Regular, Lato"><tspan x="-140.558" y="0">Amzzitfit Bit U</tspan></text>
+      </g>
+      <g id="Group_277" data-name="Group 277" transform="translate(203 1234)">
+        <g id="Group_253-4" data-name="Group 253" transform="translate(-447 -536.654)">
+          <g id="Rectangle_455-4" data-name="Rectangle 455" transform="translate(1573 1351.654)" fill="#76b7b2" stroke="#707070" stroke-width="1">
+            <rect width="199" height="37" rx="18.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="198" height="36" rx="18" fill="none"/>
+          </g>
+          <rect id="Rectangle_456-4" data-name="Rectangle 456" width="199" height="37" rx="18.5" transform="translate(1573 1351.654)" fill="#fff"/>
+        </g>
+        <text id="Fire_Boltt_Ninja" data-name="Fire Boltt Ninja" transform="translate(1299 842)" font-size="22" font-family="Lato-Regular, Lato"><tspan x="-146.718" y="0">Fire Boltt Ninja</tspan></text>
+      </g>
+      <g id="Group_278" data-name="Group 278" transform="translate(-75 1146)">
+        <g id="Group_279" data-name="Group 279">
+          <g id="Group_253-5" data-name="Group 253" transform="translate(-495 -536.654)">
+            <g id="Rectangle_455-5" data-name="Rectangle 455" transform="translate(1573 1351.654)" fill="#af7aa1" stroke="#707070" stroke-width="1">
+              <rect width="247" height="37" rx="18.5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="246" height="36" rx="18" fill="none"/>
+            </g>
+            <rect id="Rectangle_456-5" data-name="Rectangle 456" width="247" height="37" rx="18.5" transform="translate(1573 1351.654)" fill="#fff"/>
+          </g>
+          <text id="Noise_ColorFit_Ultra" data-name="Noise ColorFit Ultra" transform="translate(1299 842)" font-size="22" font-family="Lato-Regular, Lato"><tspan x="-193.886" y="0">Noise ColorFit Ultra</tspan></text>
+        </g>
+      </g>
+      <g id="Group_280" data-name="Group 280" transform="translate(114 1367)">
+        <g id="Group_279-2" data-name="Group 279">
+          <g id="Group_253-6" data-name="Group 253" transform="translate(-498 -536.654)">
+            <g id="Rectangle_455-6" data-name="Rectangle 455" transform="translate(1573 1351.654)" fill="#af7aa1" stroke="#707070" stroke-width="1">
+              <rect width="250" height="37" rx="18.5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="249" height="36" rx="18" fill="none"/>
+            </g>
+            <rect id="Rectangle_456-6" data-name="Rectangle 456" width="250" height="37" rx="18.5" transform="translate(1573 1351.654)" fill="#fff"/>
+          </g>
+          <text id="Noise_ColorFit_Pulse" data-name="Noise ColorFit Pulse" transform="translate(1299 842)" font-size="22" font-family="Lato-Regular, Lato"><tspan x="-196.768" y="0">Noise ColorFit Pulse</tspan></text>
+        </g>
+      </g>
+      <line id="Line_318" data-name="Line 318" x1="10.556" transform="translate(552.6 2232.586)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_319" data-name="Line 319" x2="967.656" transform="translate(563.156 2232.586)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_1_000" data-name="1,000" transform="translate(497.29 2241.181)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-86.088" y="0">1,000</tspan></text>
+      <line id="Line_320" data-name="Line 320" x1="10.556" transform="translate(552.6 2151.655)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_321" data-name="Line 321" x2="967.656" transform="translate(563.156 2151.655)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_2_000" data-name="2,000" transform="translate(497.29 2160.249)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-86.088" y="0">2,000</tspan></text>
+      <line id="Line_322" data-name="Line 322" x1="10.556" transform="translate(552.6 2070.724)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_323" data-name="Line 323" x2="967.656" transform="translate(563.156 2070.724)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_3_000" data-name="3,000" transform="translate(497.29 2079.318)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-86.088" y="0">3,000</tspan></text>
+      <line id="Line_324" data-name="Line 324" x1="10.556" transform="translate(552.6 1989.792)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_325" data-name="Line 325" x2="967.656" transform="translate(563.156 1989.792)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_4_000" data-name="4,000" transform="translate(497.29 1998.387)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-86.088" y="0">4,000</tspan></text>
+      <line id="Line_326" data-name="Line 326" x1="10.556" transform="translate(552.6 1907.102)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_327" data-name="Line 327" x2="967.656" transform="translate(563.156 1907.102)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_5_000" data-name="5,000" transform="translate(497.29 1915.696)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-86.088" y="0">5,000</tspan></text>
+      <line id="Line_328" data-name="Line 328" x1="10.556" transform="translate(552.6 1826.17)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_329" data-name="Line 329" x2="967.656" transform="translate(563.156 1826.17)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_6_000" data-name="6,000" transform="translate(497.29 1834.765)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-86.088" y="0">6,000</tspan></text>
+      <line id="Line_330" data-name="Line 330" x1="10.556" transform="translate(552.6 1745.239)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_331" data-name="Line 331" x2="967.656" transform="translate(563.156 1745.239)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_7_000" data-name="7,000" transform="translate(497.29 1753.834)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-86.088" y="0">7,000</tspan></text>
+      <text id="_Price" data-name="↑ Price" transform="translate(392.937 1673.023)" fill="#fff" font-size="34" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">↑</tspan><tspan y="0" xml:space="preserve" font-family="Lato-Regular, Lato"> Price</tspan></text>
+      <line id="Line_332" data-name="Line 332" y2="10.556" transform="translate(564.036 2244.022)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_333" data-name="Line 333" y1="580.594" transform="translate(564.036 1663.428)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_3.0" data-name="3.0" transform="translate(563.405 2307.896)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-23.324" y="0">3.0</tspan></text>
+      <line id="Line_334" data-name="Line 334" y2="10.556" transform="translate(685.433 2244.022)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_335" data-name="Line 335" y1="580.594" transform="translate(685.433 1663.428)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_3.2" data-name="3.2" transform="translate(684.802 2307.896)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-23.324" y="0">3.2</tspan></text>
+      <line id="Line_336" data-name="Line 336" y2="10.556" transform="translate(806.83 2244.022)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_337" data-name="Line 337" y1="580.594" transform="translate(806.83 1663.428)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_3.4" data-name="3.4" transform="translate(806.198 2307.896)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-23.324" y="0">3.4</tspan></text>
+      <line id="Line_338" data-name="Line 338" y2="10.556" transform="translate(926.467 2244.022)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_339" data-name="Line 339" y1="580.594" transform="translate(926.467 1663.428)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_3.6" data-name="3.6" transform="translate(925.836 2307.896)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-23.324" y="0">3.6</tspan></text>
+      <line id="Line_340" data-name="Line 340" y2="10.556" transform="translate(1047.864 2244.022)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_341" data-name="Line 341" y1="580.594" transform="translate(1047.864 1663.428)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_3.8" data-name="3.8" transform="translate(1047.233 2307.896)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-23.324" y="0">3.8</tspan></text>
+      <line id="Line_342" data-name="Line 342" y2="10.556" transform="translate(1169.261 2244.022)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_343" data-name="Line 343" y1="580.594" transform="translate(1169.261 1663.428)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_4.0" data-name="4.0" transform="translate(1168.63 2307.896)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-23.324" y="0">4.0</tspan></text>
+      <line id="Line_344" data-name="Line 344" y2="10.556" transform="translate(1290.658 2244.022)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_345" data-name="Line 345" y1="580.594" transform="translate(1290.658 1663.428)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_4.2" data-name="4.2" transform="translate(1290.027 2307.896)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-23.324" y="0">4.2</tspan></text>
+      <line id="Line_346" data-name="Line 346" y2="10.556" transform="translate(1410.295 2244.022)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_347" data-name="Line 347" y1="580.594" transform="translate(1410.295 1663.428)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_4.4" data-name="4.4" transform="translate(1409.664 2307.896)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-23.324" y="0">4.4</tspan></text>
+      <line id="Line_348" data-name="Line 348" y2="10.556" transform="translate(1531.692 2244.022)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_349" data-name="Line 349" y1="580.594" transform="translate(1531.692 1663.428)" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+      <text id="_4.6" data-name="4.6" transform="translate(1531.061 2307.896)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-23.324" y="0">4.6</tspan></text>
+      <text id="Rating_" data-name="Rating →" transform="translate(1560 2360)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-137.36" y="0">Rating </tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande">→</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 391.94, 1430.32)" filter="url(#Ellipse_74)">
+        <ellipse id="Ellipse_74-2" data-name="Ellipse 74" cx="35" cy="35.5" rx="35" ry="35.5" transform="translate(863.06 563.68)" fill="none" stroke="#f28e2c" stroke-width="3"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 391.94, 1430.32)" filter="url(#Ellipse_76)">
+        <circle id="Ellipse_76-2" data-name="Ellipse 76" cx="21.479" cy="21.479" r="21.479" transform="translate(814.78 633.88)" fill="none" stroke="#af7aa1" stroke-width="3"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 391.94, 1430.32)" filter="url(#Ellipse_77)">
+        <circle id="Ellipse_77-2" data-name="Ellipse 77" cx="18.885" cy="18.885" r="18.885" transform="translate(757.56 726.2)" fill="none" stroke="#af7aa1" stroke-width="3"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 391.94, 1430.32)" filter="url(#Ellipse_78)">
+        <circle id="Ellipse_78-2" data-name="Ellipse 78" cx="18.187" cy="18.187" r="18.187" transform="translate(879.65 336.32)" fill="rgba(0,0,0,0)" stroke="#4e79a7" stroke-width="3"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 391.94, 1430.32)" filter="url(#Ellipse_79)">
+        <circle id="Ellipse_79-2" data-name="Ellipse 79" cx="17.662" cy="17.662" r="17.662" transform="translate(880.18 637.69)" fill="none" stroke="#4e79a7" stroke-width="3"/>
+      </g>
+      <circle id="Ellipse_80" data-name="Ellipse 80" cx="15.913" cy="15.913" r="15.913" transform="translate(1090.89 2175.328)" fill="none" stroke="#76b7b2" stroke-width="3"/>
+      <g transform="matrix(1, 0, 0, 1, 391.94, 1430.32)" filter="url(#Ellipse_81)">
+        <circle id="Ellipse_81-2" data-name="Ellipse 81" cx="15" cy="15" r="15" transform="translate(882.84 624.52)" fill="none" stroke="#76b7b2" stroke-width="3"/>
+      </g>
+      <circle id="Ellipse_82" data-name="Ellipse 82" cx="12.228" cy="12.228" r="12.228" transform="translate(1094.575 2064.653)" fill="none" stroke="#76b7b2" stroke-width="3"/>
+      <circle id="Ellipse_83" data-name="Ellipse 83" cx="11.161" cy="11.161" r="11.161" transform="translate(1157.22 2155.448)" fill="none" stroke="#f28e2c" stroke-width="3"/>
+      <circle id="Ellipse_84" data-name="Ellipse 84" cx="10.6" cy="10.6" r="10.6" transform="translate(1279.178 1652.828)" fill="none" stroke="#4e79a7" stroke-width="3"/>
+      <circle id="Ellipse_85" data-name="Ellipse 85" cx="9.859" cy="9.859" r="9.859" transform="translate(1279.919 1913.957)" fill="none" stroke="#ff9da7" stroke-width="3"/>
+      <circle id="Ellipse_86" data-name="Ellipse 86" cx="9.445" cy="9.445" r="9.445" transform="translate(1097.357 2181.795)" fill="none" stroke="#9c755f" stroke-width="3"/>
+      <circle id="Ellipse_87" data-name="Ellipse 87" cx="9.395" cy="9.395" r="9.395" transform="translate(1158.986 2141.38)" fill="none" stroke="#af7aa1" stroke-width="3"/>
+      <circle id="Ellipse_88" data-name="Ellipse 88" cx="8.664" cy="8.664" r="8.664" transform="translate(1098.139 1816.626)" fill="none" stroke="#76b7b2" stroke-width="3"/>
+      <circle id="Ellipse_89" data-name="Ellipse 89" cx="8.485" cy="8.485" r="8.485" transform="translate(1038.5 2077.193)" fill="none" stroke="#4e79a7" stroke-width="3"/>
+      <circle id="Ellipse_90" data-name="Ellipse 90" cx="8.099" cy="8.099" r="8.099" transform="translate(1281.679 2158.511)" fill="none" stroke="#76b7b2" stroke-width="3"/>
+      <circle id="Ellipse_91" data-name="Ellipse 91" cx="7.789" cy="7.789" r="7.789" transform="translate(1160.592 2102.521)" fill="none" stroke="#f28e2c" stroke-width="3"/>
+      <circle id="Ellipse_92" data-name="Ellipse 92" cx="7.698" cy="7.698" r="7.698" transform="translate(979.468 2127.243)" fill="none" stroke="#4e79a7" stroke-width="3"/>
+      <circle id="Ellipse_93" data-name="Ellipse 93" cx="6.754" cy="6.754" r="6.754" transform="translate(1100.049 2197.158)" fill="none" stroke="#4e79a7" stroke-width="3"/>
+      <circle id="Ellipse_94" data-name="Ellipse 94" cx="6.549" cy="6.549" r="6.549" transform="translate(1040.435 2091.445)" fill="none" stroke="#4e79a7" stroke-width="3"/>
+      <circle id="Ellipse_95" data-name="Ellipse 95" cx="6.438" cy="6.438" r="6.438" transform="translate(1040.546 2176.006)" fill="none" stroke="#4e79a7" stroke-width="3"/>
+      <circle id="Ellipse_96" data-name="Ellipse 96" cx="6.267" cy="6.267" r="6.267" transform="translate(1343.33 2023.111)" fill="none" stroke="#76b7b2" stroke-width="3"/>
+      <circle id="Ellipse_97" data-name="Ellipse 97" cx="6.148" cy="6.148" r="6.148" transform="translate(1162.233 2023.23)" fill="none" stroke="#76b7b2" stroke-width="3"/>
+      <circle id="Ellipse_98" data-name="Ellipse 98" cx="5.686" cy="5.686" r="5.686" transform="translate(1222.514 2145.089)" fill="none" stroke="#76b7b2" stroke-width="3"/>
+      <circle id="Ellipse_99" data-name="Ellipse 99" cx="4.846" cy="4.846" r="4.846" transform="translate(1101.957 1943.602)" fill="none" stroke="#f28e2c" stroke-width="3"/>
+      <circle id="Ellipse_100" data-name="Ellipse 100" cx="4.306" cy="4.306" r="4.306" transform="translate(1102.497 2186.935)" fill="none" stroke="#4e79a7" stroke-width="3"/>
+      <circle id="Ellipse_101" data-name="Ellipse 101" cx="4.638" cy="4.638" r="4.638" transform="translate(1163.992 2065.206)" fill="none" stroke="#f28e2c" stroke-width="3"/>
+      <circle id="Ellipse_102" data-name="Ellipse 102" cx="3.006" cy="3.006" r="3.006" transform="translate(1346.591 2147.77)" fill="none" stroke="#e15759" stroke-width="3"/>
+      <circle id="Ellipse_103" data-name="Ellipse 103" cx="2.194" cy="2.194" r="2.194" transform="translate(1166.187 2067.649)" fill="none" stroke="#edc949" stroke-width="3"/>
+      <circle id="Ellipse_104" data-name="Ellipse 104" cx="1.027" cy="1.027" r="1.027" transform="translate(621.948 2109.282)" fill="none" stroke="#59a14f" stroke-width="3"/>
+      <circle id="Ellipse_105" data-name="Ellipse 105" cx="1.009" cy="1.009" r="1.009" transform="translate(1529.804 2165.601)" fill="none" stroke="#4e79a7" stroke-width="3"/>
+      <circle id="Ellipse_106" data-name="Ellipse 106" cx="0.417" cy="0.417" r="0.417" transform="translate(562.739 2243.605)" fill="none" stroke="#bab0ab" stroke-width="1.5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 708, 127)" filter="url(#Line_373)">
+      <line id="Line_373-2" data-name="Line 373" y1="67" transform="translate(834.5 565.5)" fill="none" stroke="#af7aa1" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 708, 127)" filter="url(#Line_374)">
+      <line id="Line_374-2" data-name="Line 374" x1="93" y1="32" transform="translate(912.5 660.5)" fill="none" stroke="#4e79a7" stroke-width="1"/>
+    </g>
+    <text id="Size_of_the_bubble_represents_no.of_people_rated" data-name="Size of the bubble represents no.of people rated" transform="translate(810 298)" fill="#fff" font-size="30" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Size of the bubble represents no.of people rated</tspan></text>
+    <circle id="Ellipse_177" data-name="Ellipse 177" cx="16.1" cy="16.1" r="16.1" transform="translate(709.5 269.5)" fill="none" stroke="#fff" stroke-width="3"/>
+    <text id="_" data-name="→" transform="translate(793 299)" fill="#fff" font-size="34" font-family="LucidaGrande, Lucida Grande"><tspan x="-34" y="0">→</tspan></text>
+  </g>
+</svg>
