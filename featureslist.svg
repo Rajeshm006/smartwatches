@@ -1,0 +1,719 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2333" height="2558" viewBox="0 0 2333 2558">
+  <g id="Group_366" data-name="Group 366" transform="translate(-272.641 -74)">
+    <g id="Group_15" data-name="Group 15" transform="translate(897.144 118.278)">
+      <line id="Line_132" data-name="Line 132" y1="1989" transform="translate(-0.144 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-2" data-name="Line 132" y1="1989" transform="translate(103.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-3" data-name="Line 132" y1="1989" transform="translate(207.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-4" data-name="Line 132" y1="1989" transform="translate(311.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-5" data-name="Line 132" y1="1989" transform="translate(415.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-6" data-name="Line 132" y1="1989" transform="translate(520.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-7" data-name="Line 132" y1="1989" transform="translate(624.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-8" data-name="Line 132" y1="1989" transform="translate(728.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-9" data-name="Line 132" y1="1989" transform="translate(832.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-10" data-name="Line 132" y1="1989" transform="translate(936.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-11" data-name="Line 132" y1="1989" transform="translate(1040.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-12" data-name="Line 132" y1="1989" transform="translate(1144.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-13" data-name="Line 132" y1="1989" transform="translate(1248.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+      <line id="Line_132-14" data-name="Line 132" y1="1989" transform="translate(1352.856 -0.278)" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1" stroke-dasharray="50"/>
+    </g>
+    <text id="Android_Device_Compatability" transform="translate(912 2350) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-231.081" y="0">Android_Device_Compatability</tspan></text>
+    <text id="IOS_Device_Compatability" transform="translate(1010 2320) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-198.203" y="0">IOS_Device_Compatability</tspan></text>
+    <text id="Heart_Rate_Monitor" transform="translate(1113 2273) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-153.323" y="0">Heart_Rate_Monitor</tspan></text>
+    <text id="Sleep_Tracking" transform="translate(1217 2237) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-110.415" y="0">Sleep_Tracking</tspan></text>
+    <text id="Step_Tracking" transform="translate(1320 2230) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-103.496" y="0">Step_Tracking</tspan></text>
+    <g id="Group_240" data-name="Group 240" transform="translate(301 137)">
+      <text id="Rs._2899" data-name="Rs. 2899" transform="translate(2088 238)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2899</tspan></text>
+      <g id="Group_191" data-name="Group 191" transform="translate(0 -2.899)">
+        <line id="Line_7" data-name="Line 7" x1="10.541" transform="translate(498.932 227.899)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_8" data-name="Line 8" x2="1551.854" transform="translate(509.473 227.899)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Crossbeats_Ignite_LYT" data-name="Crossbeats Ignite LYT" transform="translate(480 238)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-321.266" y="0">Crossbeats Ignite LYT</tspan></text>
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="29.133" height="32.479" rx="8" transform="translate(582.009 208)" fill="#4e79a7"/>
+      <rect id="Rectangle_63" data-name="Rectangle 63" width="29.133" height="32.479" rx="8" transform="translate(686.096 208)" fill="#f28e2c"/>
+      <rect id="Rectangle_96" data-name="Rectangle 96" width="29.133" height="32.479" rx="8" transform="translate(788.897 208)" fill="#4e79a7"/>
+      <rect id="Rectangle_129" data-name="Rectangle 129" width="29.133" height="32.479" rx="8" transform="translate(892.984 208)" fill="#f28e2c"/>
+      <rect id="Rectangle_162" data-name="Rectangle 162" width="29.133" height="32.479" rx="8" transform="translate(995.786 208)" fill="#4e79a7"/>
+    </g>
+    <text id="Blood_Oxygen_Level_Monitor" transform="translate(1424 2343) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-222.139" y="0">Blood_Oxygen_Level_Monitor</tspan></text>
+    <g id="Group_228" data-name="Group 228" transform="translate(301 365)">
+      <text id="Rs._3499" data-name="Rs. 3499" transform="translate(2088 558)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 3499</tspan></text>
+      <g id="Group_182" data-name="Group 182" transform="translate(0 -7.652)">
+        <line id="Line_25" data-name="Line 25" x1="10.541" transform="translate(498.932 551.653)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_26" data-name="Line 26" x2="1551.854" transform="translate(509.473 551.653)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="IZI_Smart_Calling" data-name="IZI Smart Calling" transform="translate(482 558)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-247.69" y="0">IZI Smart Calling</tspan></text>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="29.133" height="32.479" rx="8" transform="translate(582.009 528)" fill="#4e79a7"/>
+      <rect id="Rectangle_54" data-name="Rectangle 54" width="29.133" height="32.479" rx="8" transform="translate(686.096 528)" fill="#f28e2c"/>
+      <rect id="Rectangle_87" data-name="Rectangle 87" width="29.133" height="32.479" rx="8" transform="translate(788.897 528)" fill="#4e79a7"/>
+      <rect id="Rectangle_131" data-name="Rectangle 131" width="29.133" height="32.479" rx="8" transform="translate(892.984 528)" fill="#f28e2c"/>
+      <rect id="Rectangle_164" data-name="Rectangle 164" width="29.133" height="32.479" rx="8" transform="translate(995.786 528)" fill="#4e79a7"/>
+      <rect id="Rectangle_197" data-name="Rectangle 197" width="29.133" height="32.479" rx="8" transform="translate(1099.873 528)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_227" data-name="Group 227" transform="translate(301 391)">
+      <text id="Rs._2999" data-name="Rs. 2999" transform="translate(2088 593)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2999</tspan></text>
+      <g id="Group_181" data-name="Group 181" transform="translate(0 -7.792)">
+        <line id="Line_27" data-name="Line 27" x1="10.541" transform="translate(498.932 587.792)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_28" data-name="Line 28" x2="1551.854" transform="translate(509.473 587.792)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Maxima_Max_Pro" data-name="Maxima Max Pro" transform="translate(482 593)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-251.668" y="0">Maxima Max Pro</tspan></text>
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="29.133" height="32.479" rx="8" transform="translate(582.009 563)" fill="#4e79a7"/>
+      <rect id="Rectangle_53" data-name="Rectangle 53" width="29.133" height="32.479" rx="8" transform="translate(686.096 563)" fill="#f28e2c"/>
+      <rect id="Rectangle_86" data-name="Rectangle 86" width="29.133" height="32.479" rx="8" transform="translate(788.897 563)" fill="#4e79a7"/>
+      <rect id="Rectangle_132" data-name="Rectangle 132" width="29.133" height="32.479" rx="8" transform="translate(892.984 563)" fill="#f28e2c"/>
+      <rect id="Rectangle_165" data-name="Rectangle 165" width="29.133" height="32.479" rx="8" transform="translate(995.786 563)" fill="#4e79a7"/>
+      <rect id="Rectangle_198" data-name="Rectangle 198" width="29.133" height="32.479" rx="8" transform="translate(1099.873 563)" fill="#f28e2c"/>
+    </g>
+    <text id="Voice_Assistant" transform="translate(1528 2241) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-116.722" y="0">Voice_Assistant</tspan></text>
+    <text id="Stress_Level_Tracking" transform="translate(1631 2288) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-161.279" y="0">Stress_Level_Tracking</tspan></text>
+    <text id="Calorie_Tracker" transform="translate(1735 2240) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-116.79" y="0">Calorie_Tracker</tspan></text>
+    <text id="Camera_Music_Control" data-name="Camera &amp; Music Control" transform="translate(1839 2304) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-182.376" y="0">Camera &amp; Music Control</tspan></text>
+    <text id="Water_Resistant_IP68" transform="translate(1942 2285) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-165.733" y="0">Water_Resistant_IP68</tspan></text>
+    <g id="Group_226" data-name="Group 226" transform="translate(301 416)">
+      <text id="Rs._1699" data-name="Rs. 1699" transform="translate(2088 629)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1699</tspan></text>
+      <g id="Group_180" data-name="Group 180" transform="translate(0 -7.932)">
+        <line id="Line_29" data-name="Line 29" x1="10.541" transform="translate(498.932 623.932)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_30" data-name="Line 30" x2="1551.854" transform="translate(509.473 623.932)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Noise_ColorFit_Pulse" data-name="Noise ColorFit Pulse" transform="translate(485 628)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-304.096" y="0">Noise ColorFit Pulse</tspan></text>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="29.133" height="32.479" rx="8" transform="translate(582.009 599)" fill="#4e79a7"/>
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="29.133" height="32.479" rx="8" transform="translate(686.096 599)" fill="#f28e2c"/>
+      <rect id="Rectangle_85" data-name="Rectangle 85" width="29.133" height="32.479" rx="8" transform="translate(788.897 599)" fill="#4e79a7"/>
+      <rect id="Rectangle_100" data-name="Rectangle 100" width="29.133" height="32.479" rx="8" transform="translate(892.984 599)" fill="#f28e2c"/>
+      <rect id="Rectangle_133" data-name="Rectangle 133" width="29.133" height="32.479" rx="8" transform="translate(995.786 599)" fill="#4e79a7"/>
+      <rect id="Rectangle_166" data-name="Rectangle 166" width="29.133" height="32.479" rx="8" transform="translate(1099.873 599)" fill="#f28e2c"/>
+      <rect id="Rectangle_325" data-name="Rectangle 325" width="29.133" height="32.479" rx="8" transform="translate(1617.736 599)" fill="#4e79a7"/>
+    </g>
+    <g id="Group_204" data-name="Group 204" transform="translate(301 713)">
+      <text id="Rs._1399" data-name="Rs. 1399" transform="translate(2088 1064)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1399</tspan></text>
+      <g id="Group_168" data-name="Group 168">
+        <line id="Line_53" data-name="Line 53" x1="10.541" transform="translate(498.932 1057.612)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_54" data-name="Line 54" x2="1551.854" transform="translate(509.473 1057.612)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Zebronic_Fit920CH" data-name="Zebronic Fit920CH" transform="translate(482 1064)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-288.83" y="0">Zebronic Fit920CH</tspan></text>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="29.133" height="32.479" rx="8" transform="translate(582.009 1040.254)" fill="#4e79a7"/>
+      <rect id="Rectangle_35" data-name="Rectangle 35" width="29.133" height="32.479" rx="8" transform="translate(686.096 1040.254)" fill="#f28e2c"/>
+      <rect id="Rectangle_70" data-name="Rectangle 70" width="29.133" height="32.479" rx="8" transform="translate(788.897 1040.254)" fill="#4e79a7"/>
+      <rect id="Rectangle_102" data-name="Rectangle 102" width="29.133" height="32.479" rx="8" transform="translate(892.984 1040.254)" fill="#f28e2c"/>
+      <rect id="Rectangle_135" data-name="Rectangle 135" width="29.133" height="32.479" rx="8" transform="translate(995.786 1040.254)" fill="#4e79a7"/>
+      <rect id="Rectangle_168" data-name="Rectangle 168" width="29.133" height="32.479" rx="8" transform="translate(1099.873 1040.254)" fill="#f28e2c"/>
+      <rect id="Rectangle_201" data-name="Rectangle 201" width="29.133" height="32.479" rx="8" transform="translate(1203.959 1040.254)" fill="#4e79a7"/>
+      <rect id="Rectangle_327" data-name="Rectangle 327" width="29.133" height="32.479" rx="8" transform="translate(1617.736 1040.254)" fill="#4e79a7"/>
+    </g>
+    <g id="Group_230" data-name="Group 230" transform="translate(301 270)">
+      <text id="Rs._1499" data-name="Rs. 1499" transform="translate(2088 531)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1499</tspan></text>
+      <g id="Group_184" data-name="Group 184" transform="translate(0 38.627)">
+        <line id="Line_21" data-name="Line 21" x1="10.541" transform="translate(498.932 479.373)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_22" data-name="Line 22" x2="1551.854" transform="translate(509.473 479.373)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Fire_Boltt_Sp02" data-name="Fire Boltt Sp02" transform="translate(486 530)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-223.788" y="0">Fire Boltt Sp02</tspan></text>
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="29.133" height="32.479" rx="8" transform="translate(582.009 501)" fill="#4e79a7"/>
+      <rect id="Rectangle_56" data-name="Rectangle 56" width="29.133" height="32.479" rx="8" transform="translate(686.096 501)" fill="#f28e2c"/>
+      <rect id="Rectangle_89" data-name="Rectangle 89" width="29.133" height="32.479" rx="8" transform="translate(788.897 501)" fill="#4e79a7"/>
+      <rect id="Rectangle_116" data-name="Rectangle 116" width="29.133" height="32.479" rx="8" transform="translate(892.984 501)" fill="#f28e2c"/>
+      <rect id="Rectangle_149" data-name="Rectangle 149" width="29.133" height="32.479" rx="8" transform="translate(995.786 501)" fill="#4e79a7"/>
+      <rect id="Rectangle_182" data-name="Rectangle 182" width="29.133" height="32.479" rx="8" transform="translate(1099.873 501)" fill="#f28e2c"/>
+      <rect id="Rectangle_266" data-name="Rectangle 266" width="29.133" height="32.479" rx="8" transform="translate(1306.761 501)" fill="#f28e2c"/>
+      <rect id="Rectangle_340" data-name="Rectangle 340" width="29.133" height="32.479" rx="8" transform="translate(1617.736 501)" fill="#4e79a7"/>
+    </g>
+    <text id="Notification" transform="translate(2045 2212) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-88.842" y="0">Notification</tspan></text>
+    <g id="Group_211" data-name="Group 211" transform="translate(300 613)">
+      <text id="Rs._1499-2" data-name="Rs. 1499" transform="translate(2088 920)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1499</tspan></text>
+      <g id="Group_172" data-name="Group 172" transform="translate(0 -7.052)">
+        <line id="Line_45" data-name="Line 45" x1="10.541" transform="translate(498.932 913.052)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_46" data-name="Line 46" x2="1551.854" transform="translate(509.473 913.052)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Zebronic_Fit280CH" data-name="Zebronic Fit280CH" transform="translate(482 920)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-288.83" y="0">Zebronic Fit280CH</tspan></text>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="29.133" height="32.479" rx="8" transform="translate(582.009 890)" fill="#4e79a7"/>
+      <rect id="Rectangle_43" data-name="Rectangle 43" width="29.133" height="32.479" rx="8" transform="translate(686.096 890)" fill="#f28e2c"/>
+      <rect id="Rectangle_78" data-name="Rectangle 78" width="29.133" height="32.479" rx="8" transform="translate(788.897 890)" fill="#4e79a7"/>
+      <rect id="Rectangle_108" data-name="Rectangle 108" width="29.133" height="32.479" rx="8" transform="translate(892.984 890)" fill="#f28e2c"/>
+      <rect id="Rectangle_141" data-name="Rectangle 141" width="29.133" height="32.479" rx="8" transform="translate(995.786 890)" fill="#4e79a7"/>
+      <rect id="Rectangle_174" data-name="Rectangle 174" width="29.133" height="32.479" rx="8" transform="translate(1099.873 890)" fill="#f28e2c"/>
+      <rect id="Rectangle_279" data-name="Rectangle 279" width="29.131" height="32.476" rx="8" transform="translate(1410.848 890)" fill="#4e79a7"/>
+      <rect id="Rectangle_305" data-name="Rectangle 305" width="29.131" height="32.473" rx="8" transform="translate(1514.935 890)" fill="#f28e2c"/>
+      <rect id="Rectangle_333" data-name="Rectangle 333" width="29.133" height="32.479" rx="8" transform="translate(1617.736 890)" fill="#4e79a7"/>
+      <rect id="Rectangle_360" data-name="Rectangle 360" width="29.133" height="32.479" rx="8" transform="translate(1721.823 890)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_233" data-name="Group 233" transform="translate(301 262)">
+      <text id="Rs._1999" data-name="Rs. 1999" transform="translate(2088 418)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1999</tspan></text>
+      <g id="Group_186" data-name="Group 186" transform="translate(0 -2.093)">
+        <line id="Line_17" data-name="Line 17" x1="10.541" transform="translate(498.932 407.093)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_18" data-name="Line 18" x2="1551.854" transform="translate(509.473 407.093)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Fire_Boltt_Rage" data-name="Fire Boltt Rage" transform="translate(486 417)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-221.884" y="0">Fire Boltt Rage</tspan></text>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="29.133" height="32.479" rx="8" transform="translate(582.009 388)" fill="#4e79a7"/>
+      <rect id="Rectangle_58" data-name="Rectangle 58" width="29.133" height="32.479" rx="8" transform="translate(686.096 388)" fill="#f28e2c"/>
+      <rect id="Rectangle_91" data-name="Rectangle 91" width="29.133" height="32.479" rx="8" transform="translate(788.897 388)" fill="#4e79a7"/>
+      <rect id="Rectangle_109" data-name="Rectangle 109" width="29.133" height="32.479" rx="8" transform="translate(892.984 388)" fill="#f28e2c"/>
+      <rect id="Rectangle_142" data-name="Rectangle 142" width="29.133" height="32.479" rx="8" transform="translate(995.786 388)" fill="#4e79a7"/>
+      <rect id="Rectangle_175" data-name="Rectangle 175" width="29.133" height="32.479" rx="8" transform="translate(1099.873 388)" fill="#f28e2c"/>
+      <rect id="Rectangle_280" data-name="Rectangle 280" width="29.131" height="32.476" rx="8" transform="translate(1410.848 388)" fill="#4e79a7"/>
+      <rect id="Rectangle_306" data-name="Rectangle 306" width="29.131" height="32.473" rx="8" transform="translate(1514.935 388)" fill="#f28e2c"/>
+      <rect id="Rectangle_334" data-name="Rectangle 334" width="29.133" height="32.479" rx="8" transform="translate(1617.736 388)" fill="#4e79a7"/>
+      <rect id="Rectangle_361" data-name="Rectangle 361" width="29.133" height="32.479" rx="8" transform="translate(1721.823 388)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_213" data-name="Group 213" transform="translate(300 581)">
+      <text id="Rs._2649" data-name="Rs. 2649" transform="translate(2088 891)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2649</tspan></text>
+      <g id="Group_173" data-name="Group 173" transform="translate(0 1.088)">
+        <line id="Line_43" data-name="Line 43" x1="10.541" transform="translate(498.932 876.912)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_44" data-name="Line 44" x2="1551.854" transform="translate(509.473 876.912)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Zebronic_Fit25220CH" data-name="Zebronic Fit25220CH" transform="translate(480 891)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-328.27" y="0">Zebronic Fit25220CH</tspan></text>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="29.133" height="32.479" rx="8" transform="translate(582.009 861)" fill="#4e79a7"/>
+      <rect id="Rectangle_45" data-name="Rectangle 45" width="29.133" height="32.479" rx="8" transform="translate(686.096 861)" fill="#f28e2c"/>
+      <rect id="Rectangle_79" data-name="Rectangle 79" width="29.133" height="32.479" rx="8" transform="translate(788.897 861)" fill="#4e79a7"/>
+      <rect id="Rectangle_115" data-name="Rectangle 115" width="29.133" height="32.479" rx="8" transform="translate(892.984 861)" fill="#f28e2c"/>
+      <rect id="Rectangle_148" data-name="Rectangle 148" width="29.133" height="32.479" rx="8" transform="translate(995.786 861)" fill="#4e79a7"/>
+      <rect id="Rectangle_181" data-name="Rectangle 181" width="29.133" height="32.479" rx="8" transform="translate(1099.873 861)" fill="#f28e2c"/>
+      <rect id="Rectangle_286" data-name="Rectangle 286" width="29.131" height="32.476" rx="8" transform="translate(1410.848 861)" fill="#4e79a7"/>
+      <rect id="Rectangle_312" data-name="Rectangle 312" width="29.131" height="32.473" rx="8" transform="translate(1514.935 861)" fill="#f28e2c"/>
+      <rect id="Rectangle_339" data-name="Rectangle 339" width="29.133" height="32.479" rx="8" transform="translate(1617.736 861)" fill="#4e79a7"/>
+      <rect id="Rectangle_367" data-name="Rectangle 367" width="29.133" height="32.479" rx="8" transform="translate(1721.823 861)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_239" data-name="Group 239" transform="translate(301 161)">
+      <text id="Rs._5999" data-name="Rs. 5999" transform="translate(2088 275)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 5999</tspan></text>
+      <g id="Group_190" data-name="Group 190" transform="translate(0 -3.039)">
+        <line id="Line_9" data-name="Line 9" x1="10.541" transform="translate(498.932 264.039)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_10" data-name="Line 10" x2="1551.854" transform="translate(509.473 264.039)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Fire_Boltt_Beast_Sp02" data-name="Fire Boltt Beast Sp02" transform="translate(481 275)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-314.84" y="0">Fire Boltt Beast Sp02</tspan></text>
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="29.133" height="32.479" rx="8" transform="translate(582.009 245)" fill="#4e79a7"/>
+      <rect id="Rectangle_62" data-name="Rectangle 62" width="29.133" height="32.479" rx="8" transform="translate(686.096 245)" fill="#f28e2c"/>
+      <rect id="Rectangle_95" data-name="Rectangle 95" width="29.133" height="32.479" rx="8" transform="translate(788.897 245)" fill="#4e79a7"/>
+      <rect id="Rectangle_119" data-name="Rectangle 119" width="29.133" height="32.479" rx="8" transform="translate(892.984 245)" fill="#f28e2c"/>
+      <rect id="Rectangle_152" data-name="Rectangle 152" width="29.133" height="32.479" rx="8" transform="translate(995.786 245)" fill="#4e79a7"/>
+      <rect id="Rectangle_185" data-name="Rectangle 185" width="29.133" height="32.479" rx="8" transform="translate(1099.873 245)" fill="#f28e2c"/>
+      <rect id="Rectangle_290" data-name="Rectangle 290" width="29.131" height="32.476" rx="8" transform="translate(1410.848 245)" fill="#4e79a7"/>
+      <rect id="Rectangle_316" data-name="Rectangle 316" width="29.131" height="32.473" rx="8" transform="translate(1514.935 245)" fill="#f28e2c"/>
+      <rect id="Rectangle_343" data-name="Rectangle 343" width="29.133" height="32.479" rx="8" transform="translate(1617.736 245)" fill="#4e79a7"/>
+      <rect id="Rectangle_371" data-name="Rectangle 371" width="29.133" height="32.479" rx="8" transform="translate(1721.823 245)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_208" data-name="Group 208" transform="translate(301 87)">
+      <g id="Group_193" data-name="Group 193" transform="translate(0 0.099)">
+        <line id="Line_3" data-name="Line 3" x1="10.541" transform="translate(498.932 152.901)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_4" data-name="Line 4" x2="1551.854" transform="translate(509.473 152.901)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Amazfit_GTS_2_mini" data-name="Amazfit GTS 2 mini" transform="translate(481 166)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-282.71" y="0">Amazfit GTS 2 mini</tspan></text>
+      <text id="Rs._6499" data-name="Rs. 6499" transform="translate(2088 166)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 6499</tspan></text>
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="29.133" height="32.479" rx="8" transform="translate(582.009 136)" fill="#4e79a7"/>
+      <rect id="Rectangle_65" data-name="Rectangle 65" width="29.133" height="32.479" rx="8" transform="translate(686.096 136)" fill="#f28e2c"/>
+      <rect id="Rectangle_98" data-name="Rectangle 98" width="29.133" height="32.479" rx="8" transform="translate(788.897 136)" fill="#4e79a7"/>
+      <rect id="Rectangle_121" data-name="Rectangle 121" width="29.133" height="32.479" rx="8" transform="translate(892.984 136)" fill="#f28e2c"/>
+      <rect id="Rectangle_154" data-name="Rectangle 154" width="29.133" height="32.479" rx="8" transform="translate(995.786 136)" fill="#4e79a7"/>
+      <rect id="Rectangle_187" data-name="Rectangle 187" width="29.133" height="32.479" rx="8" transform="translate(1099.873 136)" fill="#f28e2c"/>
+      <rect id="Rectangle_220" data-name="Rectangle 220" width="29.133" height="32.479" rx="8" transform="translate(1203.959 136)" fill="#4e79a7"/>
+      <rect id="Rectangle_265" data-name="Rectangle 265" width="29.133" height="32.479" rx="8" transform="translate(1306.761 136)" fill="#f28e2c"/>
+      <rect id="Rectangle_292" data-name="Rectangle 292" width="29.131" height="32.476" rx="8" transform="translate(1410.848 136)" fill="#4e79a7"/>
+      <rect id="Rectangle_318" data-name="Rectangle 318" width="29.131" height="32.473" rx="8" transform="translate(1514.935 136)" fill="#f28e2c"/>
+      <rect id="Rectangle_345" data-name="Rectangle 345" width="29.133" height="32.479" rx="8" transform="translate(1617.736 136)" fill="#4e79a7"/>
+      <rect id="Rectangle_373" data-name="Rectangle 373" width="29.133" height="32.479" rx="8" transform="translate(1721.823 136)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_241" data-name="Group 241" transform="translate(302 113)">
+      <text id="Rs._1999-2" data-name="Rs. 1999" transform="translate(2088 201)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1999</tspan></text>
+      <g id="Group_192" data-name="Group 192" transform="translate(0 -3.759)">
+        <line id="Line_5" data-name="Line 5" x1="10.541" transform="translate(498.932 191.759)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_6" data-name="Line 6" x2="1551.854" transform="translate(509.473 191.759)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Amzzitfit_Bit_U" data-name="Amzzitfit Bit U" transform="translate(482 201)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-217.226" y="0">Amzzitfit Bit U</tspan></text>
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="29.133" height="32.479" rx="8" transform="translate(582.009 171)" fill="#4e79a7"/>
+      <rect id="Rectangle_64" data-name="Rectangle 64" width="29.133" height="32.479" rx="8" transform="translate(686.096 171)" fill="#f28e2c"/>
+      <rect id="Rectangle_97" data-name="Rectangle 97" width="29.133" height="32.479" rx="8" transform="translate(788.897 171)" fill="#4e79a7"/>
+      <rect id="Rectangle_122" data-name="Rectangle 122" width="29.133" height="32.479" rx="8" transform="translate(892.984 171)" fill="#f28e2c"/>
+      <rect id="Rectangle_155" data-name="Rectangle 155" width="29.133" height="32.479" rx="8" transform="translate(995.786 171)" fill="#4e79a7"/>
+      <rect id="Rectangle_188" data-name="Rectangle 188" width="29.133" height="32.479" rx="8" transform="translate(1099.873 171)" fill="#f28e2c"/>
+      <rect id="Rectangle_346" data-name="Rectangle 346" width="29.133" height="32.479" rx="8" transform="translate(1617.736 171)" fill="#4e79a7"/>
+      <rect id="Rectangle_374" data-name="Rectangle 374" width="29.133" height="32.479" rx="8" transform="translate(1721.823 171)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_202" data-name="Group 202" transform="translate(300 760)">
+      <text id="Rs._4499" data-name="Rs. 4499" transform="translate(2088 1140)" fill="#d1605e" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 4499</tspan></text>
+      <g id="Group_166" data-name="Group 166" transform="translate(0 -2.892)">
+        <line id="Line_57" data-name="Line 57" x1="10.541" transform="translate(498.932 1129.892)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_58" data-name="Line 58" x2="1551.854" transform="translate(509.473 1129.892)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="boAt_Matrix" data-name="boAt Matrix" transform="translate(484 1140)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-186.609" y="0">boAt Matrix</tspan></text>
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="29.133" height="32.479" rx="8" transform="translate(582.009 1110)" fill="#4e79a7"/>
+      <rect id="Rectangle_41" data-name="Rectangle 41" width="29.133" height="32.479" rx="8" transform="translate(686.096 1110)" fill="#f28e2c"/>
+      <rect id="Rectangle_74" data-name="Rectangle 74" width="29.133" height="32.479" rx="8" transform="translate(788.897 1110)" fill="#4e79a7"/>
+      <rect id="Rectangle_125" data-name="Rectangle 125" width="29.133" height="32.479" rx="8" transform="translate(892.984 1110)" fill="#f28e2c"/>
+      <rect id="Rectangle_158" data-name="Rectangle 158" width="29.133" height="32.479" rx="8" transform="translate(995.786 1110)" fill="#4e79a7"/>
+      <rect id="Rectangle_191" data-name="Rectangle 191" width="29.133" height="32.479" rx="8" transform="translate(1099.873 1110)" fill="#f28e2c"/>
+      <rect id="Rectangle_296" data-name="Rectangle 296" width="29.131" height="32.476" rx="8" transform="translate(1410.848 1110)" fill="#4e79a7"/>
+      <rect id="Rectangle_322" data-name="Rectangle 322" width="29.131" height="32.473" rx="8" transform="translate(1514.935 1110)" fill="#f28e2c"/>
+      <rect id="Rectangle_349" data-name="Rectangle 349" width="29.133" height="32.479" rx="8" transform="translate(1617.736 1110)" fill="#4e79a7"/>
+      <rect id="Rectangle_377" data-name="Rectangle 377" width="29.133" height="32.479" rx="8" transform="translate(1721.823 1110)" fill="#f28e2c"/>
+    </g>
+    <text id="Call_Rejection" transform="translate(2149 2231) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-106.284" y="0">Call_Rejection</tspan></text>
+    <g id="Group_200" data-name="Group 200" transform="translate(300 686)">
+      <g id="Group_164" data-name="Group 164" transform="translate(0 120.828)">
+        <line id="Line_61" data-name="Line 61" x1="10.541" transform="translate(498.932 1202.172)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_62" data-name="Line 62" x2="1551.854" transform="translate(509.473 1202.172)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Rs._1799" data-name="Rs. 1799" transform="translate(2088 1336)" fill="#d1605e" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1799</tspan></text>
+      <text id="boAt_Wave_Lite" data-name="boAt Wave Lite" transform="translate(482 1336)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-234.09" y="0">boAt Wave Lite</tspan></text>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="29.133" height="32.479" rx="8" transform="translate(582.009 1306)" fill="#4e79a7"/>
+      <rect id="Rectangle_36" data-name="Rectangle 36" width="29.133" height="32.479" rx="8" transform="translate(686.096 1306)" fill="#f28e2c"/>
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="29.133" height="32.479" rx="8" transform="translate(788.897 1306)" fill="#4e79a7"/>
+      <rect id="Rectangle_110" data-name="Rectangle 110" width="29.133" height="32.479" rx="8" transform="translate(892.984 1306)" fill="#f28e2c"/>
+      <rect id="Rectangle_176" data-name="Rectangle 176" width="29.133" height="32.479" rx="8" transform="translate(1099.873 1306)" fill="#f28e2c"/>
+      <rect id="Rectangle_209" data-name="Rectangle 209" width="29.133" height="32.479" rx="8" transform="translate(1203.959 1306)" fill="#4e79a7"/>
+      <rect id="Rectangle_269" data-name="Rectangle 269" width="29.133" height="32.479" rx="8" transform="translate(1306.761 1306)" fill="#f28e2c"/>
+      <rect id="Rectangle_281" data-name="Rectangle 281" width="29.131" height="32.476" rx="8" transform="translate(1410.848 1306)" fill="#4e79a7"/>
+      <rect id="Rectangle_307" data-name="Rectangle 307" width="29.131" height="32.473" rx="8" transform="translate(1514.935 1306)" fill="#f28e2c"/>
+      <rect id="Rectangle_335" data-name="Rectangle 335" width="29.133" height="32.479" rx="8" transform="translate(1617.736 1306)" fill="#4e79a7"/>
+      <rect id="Rectangle_362" data-name="Rectangle 362" width="29.133" height="32.479" rx="8" transform="translate(1721.823 1306)" fill="#f28e2c"/>
+      <rect id="Rectangle_390" data-name="Rectangle 390" width="29.131" height="32.473" rx="8" transform="translate(1824.625 1306)" fill="#4e79a7"/>
+    </g>
+    <g id="Group_203" data-name="Group 203" transform="translate(300 733)">
+      <text id="Rs._2499" data-name="Rs. 2499" transform="translate(2088 1106)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2499</tspan></text>
+      <g id="Group_167" data-name="Group 167" transform="translate(0 -0.752)">
+        <line id="Line_55" data-name="Line 55" x1="10.541" transform="translate(498.932 1093.752)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_56" data-name="Line 56" x2="1551.854" transform="translate(509.473 1093.752)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="boAt_Flash_Edition" data-name="boAt Flash Edition" transform="translate(486 1105)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-272.34" y="0">boAt Flash Edition</tspan></text>
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="29.133" height="32.479" rx="8" transform="translate(582.009 1076)" fill="#4e79a7"/>
+      <rect id="Rectangle_39" data-name="Rectangle 39" width="29.133" height="32.479" rx="8" transform="translate(686.096 1076)" fill="#f28e2c"/>
+      <rect id="Rectangle_73" data-name="Rectangle 73" width="29.133" height="32.479" rx="8" transform="translate(788.897 1076)" fill="#4e79a7"/>
+      <rect id="Rectangle_123" data-name="Rectangle 123" width="29.133" height="32.479" rx="8" transform="translate(892.984 1076)" fill="#f28e2c"/>
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="29.133" height="32.479" rx="8" transform="translate(995.786 1076)" fill="#4e79a7"/>
+      <rect id="Rectangle_189" data-name="Rectangle 189" width="29.133" height="32.479" rx="8" transform="translate(1099.873 1076)" fill="#f28e2c"/>
+      <rect id="Rectangle_294" data-name="Rectangle 294" width="29.131" height="32.476" rx="8" transform="translate(1410.848 1076)" fill="#4e79a7"/>
+      <rect id="Rectangle_347" data-name="Rectangle 347" width="29.133" height="32.479" rx="8" transform="translate(1617.736 1076)" fill="#4e79a7"/>
+      <rect id="Rectangle_375" data-name="Rectangle 375" width="29.133" height="32.479" rx="8" transform="translate(1721.823 1076)" fill="#f28e2c"/>
+      <rect id="Rectangle_403" data-name="Rectangle 403" width="29.131" height="32.473" rx="8" transform="translate(1824.625 1076)" fill="#4e79a7"/>
+    </g>
+    <g id="Group_196" data-name="Group 196" transform="translate(300 795)">
+      <text id="Rs._3499-2" data-name="Rs. 3499" transform="translate(2088 1288)" fill="#d1605e" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 3499</tspan></text>
+      <g id="Group_163" data-name="Group 163" transform="translate(0 36.689)">
+        <line id="Line_63" data-name="Line 63" x1="10.541" transform="translate(498.932 1238.311)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_64" data-name="Line 64" x2="1551.854" transform="translate(509.473 1238.311)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="boAt_Xtend" data-name="boAt Xtend" transform="translate(484 1288)" fill="#d1605e" font-size="34" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="-181.356" y="0">boAt Xtend</tspan></text>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="29.133" height="32.479" rx="8" transform="translate(582.009 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="29.133" height="32.479" rx="8" transform="translate(582.009 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="29.133" height="32.479" rx="8" transform="translate(686.096 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_40" data-name="Rectangle 40" width="29.133" height="32.479" rx="8" transform="translate(686.096 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_67" data-name="Rectangle 67" width="29.133" height="32.479" rx="8" transform="translate(788.897 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_69" data-name="Rectangle 69" width="29.133" height="32.479" rx="8" transform="translate(788.897 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_101" data-name="Rectangle 101" width="29.133" height="32.479" rx="8" transform="translate(892.984 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_124" data-name="Rectangle 124" width="29.133" height="32.479" rx="8" transform="translate(892.984 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_134" data-name="Rectangle 134" width="29.133" height="32.479" rx="8" transform="translate(995.786 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_157" data-name="Rectangle 157" width="29.133" height="32.479" rx="8" transform="translate(995.786 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_167" data-name="Rectangle 167" width="29.133" height="32.479" rx="8" transform="translate(1099.873 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_190" data-name="Rectangle 190" width="29.133" height="32.479" rx="8" transform="translate(1099.873 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_200" data-name="Rectangle 200" width="29.133" height="32.479" rx="8" transform="translate(1203.959 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_223" data-name="Rectangle 223" width="29.133" height="32.479" rx="8" transform="translate(1203.959 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_270" data-name="Rectangle 270" width="29.133" height="32.479" rx="8" transform="translate(1306.761 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_272" data-name="Rectangle 272" width="29.131" height="32.476" rx="8" transform="translate(1410.848 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_295" data-name="Rectangle 295" width="29.131" height="32.476" rx="8" transform="translate(1410.848 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_321" data-name="Rectangle 321" width="29.131" height="32.473" rx="8" transform="translate(1514.935 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_326" data-name="Rectangle 326" width="29.133" height="32.479" rx="8" transform="translate(1617.736 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_348" data-name="Rectangle 348" width="29.133" height="32.479" rx="8" transform="translate(1617.736 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_353" data-name="Rectangle 353" width="29.133" height="32.479" rx="8" transform="translate(1721.823 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_376" data-name="Rectangle 376" width="29.133" height="32.479" rx="8" transform="translate(1721.823 1258)" fill="#f28e2c"/>
+      <rect id="Rectangle_381" data-name="Rectangle 381" width="29.131" height="32.473" rx="8" transform="translate(1824.625 1258)" fill="#4e79a7"/>
+      <rect id="Rectangle_404" data-name="Rectangle 404" width="29.131" height="32.473" rx="8" transform="translate(1824.625 1258)" fill="#4e79a7"/>
+    </g>
+    <text id="Call_Attending" transform="translate(2253 2232) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-110.262" y="0">Call_Attending</tspan></text>
+    <g id="Group_238" data-name="Group 238" transform="translate(301 185)">
+      <text id="Rs._2999-2" data-name="Rs. 2999" transform="translate(2088 312)" fill="#d1605e" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2999</tspan></text>
+      <g id="Group_189" data-name="Group 189" transform="translate(0 -1.179)">
+        <line id="Line_11" data-name="Line 11" x1="10.541" transform="translate(498.932 300.179)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_12" data-name="Line 12" x2="1551.854" transform="translate(509.473 300.179)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Fire_Boltt_Invincible" data-name="Fire Boltt Invincible" transform="translate(481 312)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-298.775" y="0">Fire Boltt Invincible</tspan></text>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="29.133" height="32.479" rx="8" transform="translate(582.009 282)" fill="#4e79a7"/>
+      <rect id="Rectangle_61" data-name="Rectangle 61" width="29.133" height="32.479" rx="8" transform="translate(686.096 282)" fill="#f28e2c"/>
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="29.133" height="32.479" rx="8" transform="translate(788.897 282)" fill="#4e79a7"/>
+      <rect id="Rectangle_103" data-name="Rectangle 103" width="29.133" height="32.479" rx="8" transform="translate(892.984 282)" fill="#f28e2c"/>
+      <rect id="Rectangle_136" data-name="Rectangle 136" width="29.133" height="32.479" rx="8" transform="translate(995.786 282)" fill="#4e79a7"/>
+      <rect id="Rectangle_169" data-name="Rectangle 169" width="29.133" height="32.479" rx="8" transform="translate(1099.873 282)" fill="#f28e2c"/>
+      <rect id="Rectangle_202" data-name="Rectangle 202" width="29.133" height="32.479" rx="8" transform="translate(1203.959 282)" fill="#4e79a7"/>
+      <rect id="Rectangle_274" data-name="Rectangle 274" width="29.131" height="32.476" rx="8" transform="translate(1410.848 282)" fill="#4e79a7"/>
+      <rect id="Rectangle_300" data-name="Rectangle 300" width="29.131" height="32.473" rx="8" transform="translate(1514.935 282)" fill="#f28e2c"/>
+      <rect id="Rectangle_328" data-name="Rectangle 328" width="29.133" height="32.479" rx="8" transform="translate(1617.736 282)" fill="#4e79a7"/>
+      <rect id="Rectangle_383" data-name="Rectangle 383" width="29.131" height="32.473" rx="8" transform="translate(1824.625 282)" fill="#4e79a7"/>
+      <rect id="Rectangle_414" data-name="Rectangle 414" width="29.131" height="32.473" rx="8" transform="translate(1928.712 282)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_209" data-name="Group 209" transform="translate(300 661)">
+      <text id="Rs._2799" data-name="Rs. 2799" transform="translate(2088 994)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2799</tspan></text>
+      <g id="Group_170" data-name="Group 170" transform="translate(0 -4.332)">
+        <line id="Line_49" data-name="Line 49" x1="10.541" transform="translate(498.932 985.332)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_50" data-name="Line 50" x2="1551.854" transform="translate(509.473 985.332)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Zebronic_Fit7220CH" data-name="Zebronic Fit7220CH" transform="translate(481 994)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-308.55" y="0">Zebronic Fit7220CH</tspan></text>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="29.133" height="32.479" rx="8" transform="translate(582.009 964)" fill="#4e79a7"/>
+      <rect id="Rectangle_42" data-name="Rectangle 42" width="29.133" height="32.479" rx="8" transform="translate(686.096 964)" fill="#f28e2c"/>
+      <rect id="Rectangle_75" data-name="Rectangle 75" width="29.133" height="32.479" rx="8" transform="translate(788.897 964)" fill="#4e79a7"/>
+      <rect id="Rectangle_104" data-name="Rectangle 104" width="29.133" height="32.479" rx="8" transform="translate(892.984 964)" fill="#f28e2c"/>
+      <rect id="Rectangle_137" data-name="Rectangle 137" width="29.133" height="32.479" rx="8" transform="translate(995.786 964)" fill="#4e79a7"/>
+      <rect id="Rectangle_170" data-name="Rectangle 170" width="29.133" height="32.479" rx="8" transform="translate(1099.873 964)" fill="#f28e2c"/>
+      <rect id="Rectangle_275" data-name="Rectangle 275" width="29.131" height="32.476" rx="8" transform="translate(1410.848 964)" fill="#4e79a7"/>
+      <rect id="Rectangle_329" data-name="Rectangle 329" width="29.133" height="32.479" rx="8" transform="translate(1617.736 964)" fill="#4e79a7"/>
+      <rect id="Rectangle_356" data-name="Rectangle 356" width="29.133" height="32.479" rx="8" transform="translate(1721.823 964)" fill="#f28e2c"/>
+      <rect id="Rectangle_384" data-name="Rectangle 384" width="29.131" height="32.473" rx="8" transform="translate(1824.625 964)" fill="#4e79a7"/>
+      <rect id="Rectangle_415" data-name="Rectangle 415" width="29.131" height="32.473" rx="8" transform="translate(1928.712 964)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_217" data-name="Group 217" transform="translate(301 563)">
+      <text id="Rs._1599" data-name="Rs. 1599" transform="translate(2088 848)" fill="#d1605e" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1599</tspan></text>
+      <g id="Group_174" data-name="Group 174" transform="translate(0 -5.772)">
+        <line id="Line_41" data-name="Line 41" x1="10.541" transform="translate(498.932 840.772)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_42" data-name="Line 42" x2="1551.854" transform="translate(509.473 840.772)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Zebronic_Fit1220CH" data-name="Zebronic Fit1220CH" transform="translate(481 848)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-311.423" y="0">Zebronic Fit1220CH</tspan></text>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="29.133" height="32.479" rx="8" transform="translate(582.009 818)" fill="#4e79a7"/>
+      <rect id="Rectangle_46" data-name="Rectangle 46" width="29.133" height="32.479" rx="8" transform="translate(686.096 818)" fill="#f28e2c"/>
+      <rect id="Rectangle_77" data-name="Rectangle 77" width="29.133" height="32.479" rx="8" transform="translate(788.897 818)" fill="#4e79a7"/>
+      <rect id="Rectangle_105" data-name="Rectangle 105" width="29.133" height="32.479" rx="8" transform="translate(892.984 818)" fill="#f28e2c"/>
+      <rect id="Rectangle_171" data-name="Rectangle 171" width="29.133" height="32.479" rx="8" transform="translate(1099.873 818)" fill="#f28e2c"/>
+      <rect id="Rectangle_204" data-name="Rectangle 204" width="29.133" height="32.479" rx="8" transform="translate(1203.959 818)" fill="#4e79a7"/>
+      <rect id="Rectangle_276" data-name="Rectangle 276" width="29.131" height="32.476" rx="8" transform="translate(1410.848 818)" fill="#4e79a7"/>
+      <rect id="Rectangle_302" data-name="Rectangle 302" width="29.131" height="32.473" rx="8" transform="translate(1514.935 818)" fill="#f28e2c"/>
+      <rect id="Rectangle_330" data-name="Rectangle 330" width="29.133" height="32.479" rx="8" transform="translate(1617.736 818)" fill="#4e79a7"/>
+      <rect id="Rectangle_357" data-name="Rectangle 357" width="29.133" height="32.479" rx="8" transform="translate(1721.823 818)" fill="#f28e2c"/>
+      <rect id="Rectangle_385" data-name="Rectangle 385" width="29.131" height="32.473" rx="8" transform="translate(1824.625 818)" fill="#4e79a7"/>
+      <rect id="Rectangle_416" data-name="Rectangle 416" width="29.131" height="32.473" rx="8" transform="translate(1928.712 818)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_223" data-name="Group 223" transform="translate(301 441)">
+      <text id="Rs._2799-2" data-name="Rs. 2799" transform="translate(2088 726)" fill="#d1605e" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2799</tspan></text>
+      <g id="Group_178" data-name="Group 178" transform="translate(0 16.788)">
+        <line id="Line_33" data-name="Line 33" x1="10.541" transform="translate(498.932 696.212)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_34" data-name="Line 34" x2="1551.854" transform="translate(509.473 696.212)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Noise_ColorFit_Ultra" data-name="Noise ColorFit Ultra" transform="translate(481 726)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-304.742" y="0">Noise ColorFit Ultra</tspan></text>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="29.133" height="32.479" rx="8" transform="translate(582.009 696)" fill="#4e79a7"/>
+      <rect id="Rectangle_49" data-name="Rectangle 49" width="29.133" height="32.479" rx="8" transform="translate(686.096 696)" fill="#f28e2c"/>
+      <rect id="Rectangle_82" data-name="Rectangle 82" width="29.133" height="32.479" rx="8" transform="translate(788.897 696)" fill="#4e79a7"/>
+      <rect id="Rectangle_106" data-name="Rectangle 106" width="29.133" height="32.479" rx="8" transform="translate(892.984 696)" fill="#f28e2c"/>
+      <rect id="Rectangle_139" data-name="Rectangle 139" width="29.133" height="32.479" rx="8" transform="translate(995.786 696)" fill="#4e79a7"/>
+      <rect id="Rectangle_172" data-name="Rectangle 172" width="29.133" height="32.479" rx="8" transform="translate(1099.873 696)" fill="#f28e2c"/>
+      <rect id="Rectangle_267" data-name="Rectangle 267" width="29.133" height="32.479" rx="8" transform="translate(1306.761 696)" fill="#f28e2c"/>
+      <rect id="Rectangle_331" data-name="Rectangle 331" width="29.133" height="32.479" rx="8" transform="translate(1617.736 696)" fill="#4e79a7"/>
+      <rect id="Rectangle_358" data-name="Rectangle 358" width="29.133" height="32.479" rx="8" transform="translate(1721.823 696)" fill="#f28e2c"/>
+      <rect id="Rectangle_386" data-name="Rectangle 386" width="29.131" height="32.473" rx="8" transform="translate(1824.625 696)" fill="#4e79a7"/>
+      <rect id="Rectangle_417" data-name="Rectangle 417" width="29.131" height="32.473" rx="8" transform="translate(1928.712 696)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_205" data-name="Group 205" transform="translate(300 685)">
+      <text id="Rs._1799-2" data-name="Rs. 1799" transform="translate(2088 1031)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1799</tspan></text>
+      <g id="Group_169" data-name="Group 169" transform="translate(0 -4.472)">
+        <line id="Line_51" data-name="Line 51" x1="10.541" transform="translate(498.932 1021.472)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_52" data-name="Line 52" x2="1551.854" transform="translate(509.473 1021.472)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Zebronic_Fit8220CH" data-name="Zebronic Fit8220CH" transform="translate(481 1031)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-308.55" y="0">Zebronic Fit8220CH</tspan></text>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="29.133" height="32.479" rx="8" transform="translate(582.009 1001)" fill="#4e79a7"/>
+      <rect id="Rectangle_37" data-name="Rectangle 37" width="29.133" height="32.479" rx="8" transform="translate(686.096 1001)" fill="#f28e2c"/>
+      <rect id="Rectangle_71" data-name="Rectangle 71" width="29.133" height="32.479" rx="8" transform="translate(788.897 1001)" fill="#4e79a7"/>
+      <rect id="Rectangle_111" data-name="Rectangle 111" width="29.133" height="32.479" rx="8" transform="translate(892.984 1001)" fill="#f28e2c"/>
+      <rect id="Rectangle_144" data-name="Rectangle 144" width="29.133" height="32.479" rx="8" transform="translate(995.786 1001)" fill="#4e79a7"/>
+      <rect id="Rectangle_177" data-name="Rectangle 177" width="29.133" height="32.479" rx="8" transform="translate(1099.873 1001)" fill="#f28e2c"/>
+      <rect id="Rectangle_282" data-name="Rectangle 282" width="29.131" height="32.476" rx="8" transform="translate(1410.848 1001)" fill="#4e79a7"/>
+      <rect id="Rectangle_308" data-name="Rectangle 308" width="29.131" height="32.473" rx="8" transform="translate(1514.935 1001)" fill="#f28e2c"/>
+      <rect id="Rectangle_336" data-name="Rectangle 336" width="29.133" height="32.479" rx="8" transform="translate(1617.736 1001)" fill="#4e79a7"/>
+      <rect id="Rectangle_391" data-name="Rectangle 391" width="29.131" height="32.473" rx="8" transform="translate(1824.625 1001)" fill="#4e79a7"/>
+      <rect id="Rectangle_422" data-name="Rectangle 422" width="29.131" height="32.473" rx="8" transform="translate(1928.712 1001)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_231" data-name="Group 231" transform="translate(301 253)">
+      <text id="Rs._3499-3" data-name="Rs. 3499" transform="translate(2088 487)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 3499</tspan></text>
+      <g id="Group_185" data-name="Group 185" transform="translate(0 30.767)">
+        <line id="Line_19" data-name="Line 19" x1="10.541" transform="translate(498.932 443.233)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_20" data-name="Line 20" x2="1551.854" transform="translate(509.473 443.233)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Fire_Boltt_Ring_Pro" data-name="Fire Boltt Ring Pro" transform="translate(485 486)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-274.38" y="0">Fire Boltt Ring Pro</tspan></text>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="29.133" height="32.479" rx="8" transform="translate(582.009 457)" fill="#4e79a7"/>
+      <rect id="Rectangle_57" data-name="Rectangle 57" width="29.133" height="32.479" rx="8" transform="translate(686.096 457)" fill="#f28e2c"/>
+      <rect id="Rectangle_90" data-name="Rectangle 90" width="29.133" height="32.479" rx="8" transform="translate(788.897 457)" fill="#4e79a7"/>
+      <rect id="Rectangle_112" data-name="Rectangle 112" width="29.133" height="32.479" rx="8" transform="translate(892.984 457)" fill="#f28e2c"/>
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="29.133" height="32.479" rx="8" transform="translate(995.786 457)" fill="#4e79a7"/>
+      <rect id="Rectangle_178" data-name="Rectangle 178" width="29.133" height="32.479" rx="8" transform="translate(1099.873 457)" fill="#f28e2c"/>
+      <rect id="Rectangle_211" data-name="Rectangle 211" width="29.133" height="32.479" rx="8" transform="translate(1203.959 457)" fill="#4e79a7"/>
+      <rect id="Rectangle_283" data-name="Rectangle 283" width="29.131" height="32.476" rx="8" transform="translate(1410.848 457)" fill="#4e79a7"/>
+      <rect id="Rectangle_309" data-name="Rectangle 309" width="29.131" height="32.473" rx="8" transform="translate(1514.935 457)" fill="#f28e2c"/>
+      <rect id="Rectangle_364" data-name="Rectangle 364" width="29.133" height="32.479" rx="8" transform="translate(1721.823 457)" fill="#f28e2c"/>
+      <rect id="Rectangle_392" data-name="Rectangle 392" width="29.131" height="32.473" rx="8" transform="translate(1824.625 457)" fill="#4e79a7"/>
+      <rect id="Rectangle_423" data-name="Rectangle 423" width="29.131" height="32.473" rx="8" transform="translate(1928.712 457)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_210" data-name="Group 210" transform="translate(300 637)">
+      <text id="Rs._2199" data-name="Rs. 2199" transform="translate(2088 957)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2199</tspan></text>
+      <g id="Group_171" data-name="Group 171" transform="translate(0 -5.192)">
+        <line id="Line_47" data-name="Line 47" x1="10.541" transform="translate(498.932 949.192)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_48" data-name="Line 48" x2="1551.854" transform="translate(509.473 949.192)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Zebronic_Fit4220CH" data-name="Zebronic Fit4220CH" transform="translate(481 957)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-308.55" y="0">Zebronic Fit4220CH</tspan></text>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="29.133" height="32.479" rx="8" transform="translate(582.009 927)" fill="#4e79a7"/>
+      <rect id="Rectangle_44" data-name="Rectangle 44" width="29.133" height="32.479" rx="8" transform="translate(686.096 927)" fill="#f28e2c"/>
+      <rect id="Rectangle_76" data-name="Rectangle 76" width="29.133" height="32.479" rx="8" transform="translate(788.897 927)" fill="#4e79a7"/>
+      <rect id="Rectangle_113" data-name="Rectangle 113" width="29.133" height="32.479" rx="8" transform="translate(892.984 927)" fill="#f28e2c"/>
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="29.133" height="32.479" rx="8" transform="translate(995.786 927)" fill="#4e79a7"/>
+      <rect id="Rectangle_179" data-name="Rectangle 179" width="29.133" height="32.479" rx="8" transform="translate(1099.873 927)" fill="#f28e2c"/>
+      <rect id="Rectangle_310" data-name="Rectangle 310" width="29.131" height="32.473" rx="8" transform="translate(1514.935 927)" fill="#f28e2c"/>
+      <rect id="Rectangle_337" data-name="Rectangle 337" width="29.133" height="32.479" rx="8" transform="translate(1617.736 927)" fill="#4e79a7"/>
+      <rect id="Rectangle_365" data-name="Rectangle 365" width="29.133" height="32.479" rx="8" transform="translate(1721.823 927)" fill="#f28e2c"/>
+      <rect id="Rectangle_393" data-name="Rectangle 393" width="29.131" height="32.473" rx="8" transform="translate(1824.625 927)" fill="#4e79a7"/>
+      <rect id="Rectangle_424" data-name="Rectangle 424" width="29.131" height="32.473" rx="8" transform="translate(1928.712 927)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_201" data-name="Group 201" transform="translate(300 946)">
+      <g id="Group_198" data-name="Group 198" transform="translate(0 -161)">
+        <text id="Rs._2999-3" data-name="Rs. 2999" transform="translate(2088 1176)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2999</tspan></text>
+        <g id="Group_165" data-name="Group 165" transform="translate(0 -3.031)">
+          <line id="Line_59" data-name="Line 59" x1="10.541" transform="translate(498.932 1166.031)" fill="none" stroke="#000" stroke-width="1"/>
+          <line id="Line_60" data-name="Line 60" x2="1551.854" transform="translate(509.473 1166.031)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+        </g>
+        <text id="boAt_Wave_Call" data-name="boAt Wave Call" transform="translate(482 1176)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-229.398" y="0">boAt Wave Call</tspan></text>
+        <rect id="Rectangle_15" data-name="Rectangle 15" width="29.133" height="32.479" rx="8" transform="translate(582.009 1146)" fill="#4e79a7"/>
+        <rect id="Rectangle_38" data-name="Rectangle 38" width="29.133" height="32.479" rx="8" transform="translate(686.096 1146)" fill="#f28e2c"/>
+        <rect id="Rectangle_72" data-name="Rectangle 72" width="29.133" height="32.479" rx="8" transform="translate(788.897 1146)" fill="#4e79a7"/>
+        <rect id="Rectangle_114" data-name="Rectangle 114" width="29.133" height="32.479" rx="8" transform="translate(892.984 1146)" fill="#f28e2c"/>
+        <rect id="Rectangle_147" data-name="Rectangle 147" width="29.133" height="32.479" rx="8" transform="translate(995.786 1146)" fill="#4e79a7"/>
+        <rect id="Rectangle_180" data-name="Rectangle 180" width="29.133" height="32.479" rx="8" transform="translate(1099.873 1146)" fill="#f28e2c"/>
+        <rect id="Rectangle_338" data-name="Rectangle 338" width="29.133" height="32.479" rx="8" transform="translate(1617.736 1146)" fill="#4e79a7"/>
+        <rect id="Rectangle_366" data-name="Rectangle 366" width="29.133" height="32.479" rx="8" transform="translate(1721.823 1146)" fill="#f28e2c"/>
+        <rect id="Rectangle_394" data-name="Rectangle 394" width="29.131" height="32.473" rx="8" transform="translate(1824.625 1146)" fill="#4e79a7"/>
+        <rect id="Rectangle_425" data-name="Rectangle 425" width="29.131" height="32.473" rx="8" transform="translate(1928.712 1146)" fill="#f28e2c"/>
+      </g>
+    </g>
+    <g id="Group_206" data-name="Group 206" transform="translate(301 64)">
+      <g id="Group_194" data-name="Group 194" transform="translate(0 -0.635)">
+        <line id="Line_1" data-name="Line 1" x1="10.541" transform="translate(498.932 115.635)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_2" data-name="Line 2" x2="1551.854" transform="translate(509.473 115.635)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Amazfit_GTR_2e" data-name="Amazfit GTR 2e" transform="translate(482 128)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-238.221" y="0">Amazfit GTR 2e</tspan></text>
+      <text id="Rs._7999" data-name="Rs. 7999" transform="translate(2218 128)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-130.22" y="0">Rs. 7999</tspan></text>
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="29.133" height="32.479" rx="8" transform="translate(582.009 98)" fill="#4e79a7"/>
+      <rect id="Rectangle_66" data-name="Rectangle 66" width="29.133" height="32.479" rx="8" transform="translate(686.096 98)" fill="#f28e2c"/>
+      <rect id="Rectangle_99" data-name="Rectangle 99" width="29.133" height="32.479" rx="8" transform="translate(788.897 98)" fill="#4e79a7"/>
+      <rect id="Rectangle_117" data-name="Rectangle 117" width="29.133" height="32.479" rx="8" transform="translate(892.984 98)" fill="#f28e2c"/>
+      <rect id="Rectangle_150" data-name="Rectangle 150" width="29.133" height="32.479" rx="8" transform="translate(995.786 98)" fill="#4e79a7"/>
+      <rect id="Rectangle_183" data-name="Rectangle 183" width="29.133" height="32.479" rx="8" transform="translate(1099.873 98)" fill="#f28e2c"/>
+      <rect id="Rectangle_216" data-name="Rectangle 216" width="29.133" height="32.479" rx="8" transform="translate(1203.959 98)" fill="#4e79a7"/>
+      <rect id="Rectangle_314" data-name="Rectangle 314" width="29.131" height="32.473" rx="8" transform="translate(1514.935 98)" fill="#f28e2c"/>
+      <rect id="Rectangle_341" data-name="Rectangle 341" width="29.133" height="32.479" rx="8" transform="translate(1617.736 98)" fill="#4e79a7"/>
+      <rect id="Rectangle_369" data-name="Rectangle 369" width="29.133" height="32.479" rx="8" transform="translate(1721.823 98)" fill="#f28e2c"/>
+      <rect id="Rectangle_397" data-name="Rectangle 397" width="29.131" height="32.473" rx="8" transform="translate(1824.625 98)" fill="#4e79a7"/>
+      <rect id="Rectangle_428" data-name="Rectangle 428" width="29.131" height="32.473" rx="8" transform="translate(1928.712 98)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_229" data-name="Group 229" transform="translate(301 338)">
+      <text id="Rs._3499-4" data-name="Rs. 3499" transform="translate(2088 524)" fill="#d1605e" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 3499</tspan></text>
+      <g id="Group_183" data-name="Group 183" transform="translate(0 -4.512)">
+        <line id="Line_23" data-name="Line 23" x1="10.541" transform="translate(498.932 515.512)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_24" data-name="Line 24" x2="1551.854" transform="translate(509.473 515.512)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Fire_Boltt_Visionary" data-name="Fire Boltt Visionary" transform="translate(481 524)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-296.412" y="0">Fire Boltt Visionary</tspan></text>
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="29.133" height="32.479" rx="8" transform="translate(582.009 494)" fill="#4e79a7"/>
+      <rect id="Rectangle_55" data-name="Rectangle 55" width="29.133" height="32.479" rx="8" transform="translate(686.096 494)" fill="#f28e2c"/>
+      <rect id="Rectangle_88" data-name="Rectangle 88" width="29.133" height="32.479" rx="8" transform="translate(788.897 494)" fill="#4e79a7"/>
+      <rect id="Rectangle_120" data-name="Rectangle 120" width="29.133" height="32.479" rx="8" transform="translate(892.984 494)" fill="#f28e2c"/>
+      <rect id="Rectangle_153" data-name="Rectangle 153" width="29.133" height="32.479" rx="8" transform="translate(995.786 494)" fill="#4e79a7"/>
+      <rect id="Rectangle_186" data-name="Rectangle 186" width="29.133" height="32.479" rx="8" transform="translate(1099.873 494)" fill="#f28e2c"/>
+      <rect id="Rectangle_219" data-name="Rectangle 219" width="29.133" height="32.479" rx="8" transform="translate(1203.959 494)" fill="#4e79a7"/>
+      <rect id="Rectangle_291" data-name="Rectangle 291" width="29.131" height="32.476" rx="8" transform="translate(1410.848 494)" fill="#4e79a7"/>
+      <rect id="Rectangle_317" data-name="Rectangle 317" width="29.131" height="32.473" rx="8" transform="translate(1514.935 494)" fill="#f28e2c"/>
+      <rect id="Rectangle_344" data-name="Rectangle 344" width="29.133" height="32.479" rx="8" transform="translate(1617.736 494)" fill="#4e79a7"/>
+      <rect id="Rectangle_372" data-name="Rectangle 372" width="29.133" height="32.479" rx="8" transform="translate(1721.823 494)" fill="#f28e2c"/>
+      <rect id="Rectangle_400" data-name="Rectangle 400" width="29.131" height="32.473" rx="8" transform="translate(1824.625 494)" fill="#4e79a7"/>
+      <rect id="Rectangle_431" data-name="Rectangle 431" width="29.131" height="32.473" rx="8" transform="translate(1928.712 494)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_224" data-name="Group 224" transform="translate(301 441)">
+      <text id="Rs._1999-3" data-name="Rs. 1999" transform="translate(2088 665)" fill="#d1605e" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1999</tspan></text>
+      <g id="Group_179" data-name="Group 179" transform="translate(0 -9.072)">
+        <line id="Line_31" data-name="Line 31" x1="10.541" transform="translate(498.932 660.072)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_32" data-name="Line 32" x2="1551.854" transform="translate(509.473 660.072)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Noise_ColorFit_Pulse_Grand" data-name="Noise ColorFit Pulse Grand" transform="translate(478 665)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-410.295" y="0">Noise ColorFit Pulse Grand</tspan></text>
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="29.133" height="32.479" rx="8" transform="translate(582.009 635)" fill="#4e79a7"/>
+      <rect id="Rectangle_51" data-name="Rectangle 51" width="29.133" height="32.479" rx="8" transform="translate(686.096 635)" fill="#f28e2c"/>
+      <rect id="Rectangle_84" data-name="Rectangle 84" width="29.133" height="32.479" rx="8" transform="translate(788.897 635)" fill="#4e79a7"/>
+      <rect id="Rectangle_126" data-name="Rectangle 126" width="29.133" height="32.479" rx="8" transform="translate(892.984 635)" fill="#f28e2c"/>
+      <rect id="Rectangle_159" data-name="Rectangle 159" width="29.133" height="32.479" rx="8" transform="translate(995.786 635)" fill="#4e79a7"/>
+      <rect id="Rectangle_192" data-name="Rectangle 192" width="29.133" height="32.479" rx="8" transform="translate(1099.873 635)" fill="#f28e2c"/>
+      <rect id="Rectangle_268" data-name="Rectangle 268" width="29.133" height="32.479" rx="8" transform="translate(1306.761 635)" fill="#f28e2c"/>
+      <rect id="Rectangle_350" data-name="Rectangle 350" width="29.133" height="32.479" rx="8" transform="translate(1617.736 635)" fill="#4e79a7"/>
+      <rect id="Rectangle_378" data-name="Rectangle 378" width="29.133" height="32.479" rx="8" transform="translate(1721.823 635)" fill="#f28e2c"/>
+      <rect id="Rectangle_406" data-name="Rectangle 406" width="29.131" height="32.473" rx="8" transform="translate(1824.625 635)" fill="#4e79a7"/>
+      <rect id="Rectangle_437" data-name="Rectangle 437" width="29.131" height="32.473" rx="8" transform="translate(1928.712 635)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_221" data-name="Group 221" transform="translate(301 462)">
+      <text id="Rs._4799" data-name="Rs. 4799" transform="translate(2217 766)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-129.302" y="0">Rs. 4799</tspan></text>
+      <g id="Group_177" data-name="Group 177" transform="translate(0 20.648)">
+        <line id="Line_35" data-name="Line 35" x1="10.541" transform="translate(498.932 732.352)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_36" data-name="Line 36" x2="1551.854" transform="translate(509.473 732.352)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Realme_smart_watch_5" data-name="Realme smart watch 5" transform="translate(480 766)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-327.828" y="0">Realme smart watch 5</tspan></text>
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="29.133" height="32.479" rx="8" transform="translate(582.009 736)" fill="#4e79a7"/>
+      <rect id="Rectangle_50" data-name="Rectangle 50" width="29.133" height="32.479" rx="8" transform="translate(686.096 736)" fill="#f28e2c"/>
+      <rect id="Rectangle_83" data-name="Rectangle 83" width="29.133" height="32.479" rx="8" transform="translate(788.897 736)" fill="#4e79a7"/>
+      <rect id="Rectangle_127" data-name="Rectangle 127" width="29.133" height="32.479" rx="8" transform="translate(892.984 736)" fill="#f28e2c"/>
+      <rect id="Rectangle_160" data-name="Rectangle 160" width="29.133" height="32.479" rx="8" transform="translate(995.786 736)" fill="#4e79a7"/>
+      <rect id="Rectangle_193" data-name="Rectangle 193" width="29.133" height="32.479" rx="8" transform="translate(1099.873 736)" fill="#f28e2c"/>
+      <rect id="Rectangle_324" data-name="Rectangle 324" width="29.131" height="32.473" rx="8" transform="translate(1514.935 736)" fill="#f28e2c"/>
+      <rect id="Rectangle_351" data-name="Rectangle 351" width="29.133" height="32.479" rx="8" transform="translate(1617.736 736)" fill="#4e79a7"/>
+      <rect id="Rectangle_379" data-name="Rectangle 379" width="29.133" height="32.479" rx="8" transform="translate(1721.823 736)" fill="#f28e2c"/>
+      <rect id="Rectangle_407" data-name="Rectangle 407" width="29.131" height="32.473" rx="8" transform="translate(1824.625 736)" fill="#4e79a7"/>
+      <rect id="Rectangle_438" data-name="Rectangle 438" width="29.131" height="32.473" rx="8" transform="translate(1928.712 736)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_219" data-name="Group 219" transform="translate(301 515)">
+      <text id="Rs._1499-3" data-name="Rs. 1499" transform="translate(2088 774)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1499</tspan></text>
+      <g id="Group_176" data-name="Group 176" transform="translate(0 -7.492)">
+        <line id="Line_37" data-name="Line 37" x1="10.541" transform="translate(498.932 768.492)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_38" data-name="Line 38" x2="1551.854" transform="translate(509.473 768.492)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="TAGG_Verve_NEO" data-name="TAGG Verve NEO" transform="translate(481 774)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-263.296" y="0">TAGG Verve NEO</tspan></text>
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="29.133" height="32.479" rx="8" transform="translate(582.009 744)" fill="#4e79a7"/>
+      <rect id="Rectangle_47" data-name="Rectangle 47" width="29.133" height="32.479" rx="8" transform="translate(686.096 744)" fill="#f28e2c"/>
+      <rect id="Rectangle_80" data-name="Rectangle 80" width="29.133" height="32.479" rx="8" transform="translate(788.897 744)" fill="#4e79a7"/>
+      <rect id="Rectangle_128" data-name="Rectangle 128" width="29.133" height="32.479" rx="8" transform="translate(892.984 744)" fill="#f28e2c"/>
+      <rect id="Rectangle_161" data-name="Rectangle 161" width="29.133" height="32.479" rx="8" transform="translate(995.786 744)" fill="#4e79a7"/>
+      <rect id="Rectangle_194" data-name="Rectangle 194" width="29.133" height="32.479" rx="8" transform="translate(1099.873 744)" fill="#f28e2c"/>
+      <rect id="Rectangle_408" data-name="Rectangle 408" width="29.131" height="32.473" rx="8" transform="translate(1824.625 744)" fill="#4e79a7"/>
+      <rect id="Rectangle_439" data-name="Rectangle 439" width="29.131" height="32.473" rx="8" transform="translate(1928.712 744)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_218" data-name="Group 218" transform="translate(301 540)">
+      <text id="Rs._849" data-name="Rs. 849" transform="translate(2088 810)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 849</tspan></text>
+      <g id="Group_175" data-name="Group 175" transform="translate(0 -7.632)">
+        <line id="Line_39" data-name="Line 39" x1="10.541" transform="translate(498.932 804.632)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_40" data-name="Line 40" x2="1551.854" transform="translate(509.473 804.632)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Tokdis_MX-1_Pro" data-name="Tokdis MX-1 Pro" transform="translate(483 810)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-244.766" y="0">Tokdis MX-1 Pro</tspan></text>
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="29.133" height="32.479" rx="8" transform="translate(582.009 780)" fill="#4e79a7"/>
+      <rect id="Rectangle_48" data-name="Rectangle 48" width="29.133" height="32.479" rx="8" transform="translate(686.096 780)" fill="#f28e2c"/>
+      <rect id="Rectangle_81" data-name="Rectangle 81" width="29.133" height="32.479" rx="8" transform="translate(788.897 780)" fill="#4e79a7"/>
+      <rect id="Rectangle_130" data-name="Rectangle 130" width="29.133" height="32.479" rx="8" transform="translate(892.984 780)" fill="#f28e2c"/>
+      <rect id="Rectangle_163" data-name="Rectangle 163" width="29.133" height="32.479" rx="8" transform="translate(995.786 780)" fill="#4e79a7"/>
+      <rect id="Rectangle_410" data-name="Rectangle 410" width="29.131" height="32.473" rx="8" transform="translate(1824.625 780)" fill="#4e79a7"/>
+      <rect id="Rectangle_441" data-name="Rectangle 441" width="29.131" height="32.473" rx="8" transform="translate(1928.712 780)" fill="#f28e2c"/>
+    </g>
+    <g id="Group_236" data-name="Group 236" transform="translate(301 211)">
+      <g id="Group_188" data-name="Group 188" transform="translate(0 -2.319)">
+        <line id="Line_13" data-name="Line 13" x1="10.541" transform="translate(498.932 336.319)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_14" data-name="Line 14" x2="1551.854" transform="translate(509.473 336.319)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Fire_Boltt_Ninja" data-name="Fire Boltt Ninja" transform="translate(482 347)" fill="#d1605e" font-size="34" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-231.693" y="0">Fire Boltt Ninja</tspan></text>
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="29.133" height="32.479" rx="8" transform="translate(582.009 317)" fill="#4e79a7"/>
+      <rect id="Rectangle_60" data-name="Rectangle 60" width="29.133" height="32.479" rx="8" transform="translate(686.096 317)" fill="#f28e2c"/>
+      <rect id="Rectangle_93" data-name="Rectangle 93" width="29.133" height="32.479" rx="8" transform="translate(788.897 317)" fill="#4e79a7"/>
+      <rect id="Rectangle_118" data-name="Rectangle 118" width="29.133" height="32.479" rx="8" transform="translate(892.984 317)" fill="#f28e2c"/>
+      <rect id="Rectangle_151" data-name="Rectangle 151" width="29.133" height="32.479" rx="8" transform="translate(995.786 317)" fill="#4e79a7"/>
+      <rect id="Rectangle_184" data-name="Rectangle 184" width="29.133" height="32.479" rx="8" transform="translate(1099.873 317)" fill="#f28e2c"/>
+      <rect id="Rectangle_217" data-name="Rectangle 217" width="29.133" height="32.479" rx="8" transform="translate(1203.959 317)" fill="#4e79a7"/>
+      <rect id="Rectangle_289" data-name="Rectangle 289" width="29.131" height="32.476" rx="8" transform="translate(1410.848 317)" fill="#4e79a7"/>
+      <rect id="Rectangle_315" data-name="Rectangle 315" width="29.131" height="32.473" rx="8" transform="translate(1514.935 317)" fill="#f28e2c"/>
+      <rect id="Rectangle_342" data-name="Rectangle 342" width="29.133" height="32.479" rx="8" transform="translate(1617.736 317)" fill="#4e79a7"/>
+      <rect id="Rectangle_370" data-name="Rectangle 370" width="29.133" height="32.479" rx="8" transform="translate(1721.823 317)" fill="#f28e2c"/>
+      <rect id="Rectangle_398" data-name="Rectangle 398" width="29.131" height="32.473" rx="8" transform="translate(1824.625 317)" fill="#4e79a7"/>
+      <rect id="Rectangle_429" data-name="Rectangle 429" width="29.131" height="32.473" rx="8" transform="translate(1928.712 317)" fill="#f28e2c"/>
+      <text id="Rs._2999-4" data-name="Rs. 2999" transform="translate(2088 347)" fill="#d1605e" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 2999</tspan></text>
+    </g>
+    <g id="Group_235" data-name="Group 235" transform="translate(301 239)">
+      <g id="Group_187" data-name="Group 187" transform="translate(0 -5.459)">
+        <line id="Line_15" data-name="Line 15" x1="10.541" transform="translate(498.932 372.459)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Line_16" data-name="Line 16" x2="1551.854" transform="translate(509.473 372.459)" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+      </g>
+      <text id="Fire_Boltt_Ninja_3" data-name="Fire Boltt Ninja 3" transform="translate(486 379)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-253.028" y="0">Fire Boltt Ninja 3</tspan></text>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="29.133" height="32.479" rx="8" transform="translate(582.009 350)" fill="#4e79a7"/>
+      <rect id="Rectangle_59" data-name="Rectangle 59" width="29.133" height="32.479" rx="8" transform="translate(686.096 350)" fill="#f28e2c"/>
+      <rect id="Rectangle_92" data-name="Rectangle 92" width="29.133" height="32.479" rx="8" transform="translate(788.897 350)" fill="#4e79a7"/>
+      <rect id="Rectangle_107" data-name="Rectangle 107" width="29.133" height="32.479" rx="8" transform="translate(892.984 350)" fill="#f28e2c"/>
+      <rect id="Rectangle_140" data-name="Rectangle 140" width="29.133" height="32.479" rx="8" transform="translate(995.786 350)" fill="#4e79a7"/>
+      <rect id="Rectangle_173" data-name="Rectangle 173" width="29.133" height="32.479" rx="8" transform="translate(1099.873 350)" fill="#f28e2c"/>
+      <rect id="Rectangle_278" data-name="Rectangle 278" width="29.131" height="32.476" rx="8" transform="translate(1410.848 350)" fill="#4e79a7"/>
+      <rect id="Rectangle_304" data-name="Rectangle 304" width="29.131" height="32.473" rx="8" transform="translate(1514.935 350)" fill="#f28e2c"/>
+      <rect id="Rectangle_332" data-name="Rectangle 332" width="29.133" height="32.479" rx="8" transform="translate(1617.736 350)" fill="#4e79a7"/>
+      <rect id="Rectangle_359" data-name="Rectangle 359" width="29.133" height="32.479" rx="8" transform="translate(1721.823 350)" fill="#f28e2c"/>
+      <text id="Rs._1799-3" data-name="Rs. 1799" transform="translate(2088 380)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Rs. 1799</tspan></text>
+    </g>
+    <g id="XMLID_197_" transform="translate(850.29 75)" opacity="0.89">
+      <path id="XMLID_221_" d="M93.379,134.53a3.365,3.365,0,0,0,3.285-3.285v-7.672h2.194a2.072,2.072,0,0,0,2.194-2.194V99.466h-26.3v21.913a2.072,2.072,0,0,0,2.194,2.194h2.194v7.672a3.285,3.285,0,1,0,6.57,0v-7.672h4.387v7.672A3.364,3.364,0,0,0,93.379,134.53Z" transform="translate(-41.275 -82.046)" fill="#fff"/>
+      <path id="XMLID_222_" d="M240.741,121.379a3.364,3.364,0,0,0,3.285-3.285V102.75a3.285,3.285,0,0,0-6.57,0v15.344A3.364,3.364,0,0,0,240.741,121.379Z" transform="translate(-175.487 -82.046)" fill="#fff"/>
+      <path id="XMLID_223_" d="M27.995,121.379a3.364,3.364,0,0,0,3.285-3.285V102.75a3.285,3.285,0,0,0-6.57,0v15.344A3.364,3.364,0,0,0,27.995,121.379Z" transform="translate(0 -82.046)" fill="#fff"/>
+      <path id="XMLID_224_" d="M98.418.331a1.049,1.049,0,0,0-1.53,0L93.946,3.263l-.136.136a12.992,12.992,0,0,0-5.879-1.314h-.064A12.99,12.99,0,0,0,81.989,3.4l-.136-.136L78.911.331a1.049,1.049,0,0,0-1.53,0,1.052,1.052,0,0,0,0,1.529l2.846,2.846a11.859,11.859,0,0,0-2.472,2.218,12.88,12.88,0,0,0-2.987,7.616c0,.03,0,.06-.006.09q-.014.3-.014.594h26.3q0-.3-.014-.594c0-.03,0-.06-.006-.09a12.876,12.876,0,0,0-2.987-7.616,11.85,11.85,0,0,0-2.472-2.218L98.418,1.86A1.052,1.052,0,0,0,98.418.331Zm-16,11.064a1.643,1.643,0,1,1,1.643-1.643A1.643,1.643,0,0,1,82.417,11.395Zm10.965,0a1.643,1.643,0,1,1,1.643-1.643A1.643,1.643,0,0,1,93.383,11.395Z" transform="translate(-41.275 0)" fill="#fff"/>
+    </g>
+    <text id="Watch_Name_" data-name="Watch Name →" transform="translate(306.641 1273) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Watch Name </tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande">→</tspan></text>
+    <text id="Price_" data-name="Price →" transform="translate(2598.641 1215) rotate(-90)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Price </tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande">→</tspan></text>
+    <text id="Features_" data-name="Features →" transform="translate(1498 2625)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Features </tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande">→</tspan></text>
+    <g id="apple" transform="translate(938.664 76)" opacity="0.89">
+      <g id="Group_295" data-name="Group 295" transform="translate(57.346)">
+        <g id="Group_294" data-name="Group 294">
+          <path id="Path_50" data-name="Path 50" d="M257.466,0a11.438,11.438,0,0,0-7.406,4.009c-1.615,1.965-2.943,4.883-2.425,7.72a9.654,9.654,0,0,0,7.473-3.817A10.724,10.724,0,0,0,257.466,0Z" transform="translate(-247.522)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_297" data-name="Group 297" transform="translate(37.336 11.409)">
+        <g id="Group_296" data-name="Group 296" transform="translate(0)">
+          <path id="Path_51" data-name="Path 51" d="M77.56,124.784a12.339,12.339,0,0,0-9.313-4.944c-4.372,0-6.221,2.093-9.258,2.093-3.132,0-5.511-2.087-9.292-2.087-3.714,0-7.668,2.27-10.175,6.151C36,131.462,36.6,141.738,42.313,150.49c2.044,3.132,4.774,6.653,8.344,6.684,3.177.03,4.073-2.038,8.378-2.059s5.121,2.087,8.292,2.053c3.574-.027,6.452-3.93,8.5-7.062a35.121,35.121,0,0,0,3.147-5.91C70.706,141.049,69.381,129.3,77.56,124.784Z" transform="translate(-37.336 -119.84)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="cardiogram" transform="translate(1079 52.994)" opacity="0.89">
+      <path id="Path_52" data-name="Path 52" d="M25.365,29.218C14.3,19.541.234,28.044,0,39.57A14.967,14.967,0,0,0,2.48,48.007H13.421l1.946-3.243a1.487,1.487,0,0,1,2.53-.033L22,51.182l5.985-12.634a1.488,1.488,0,0,1,2.653-.068l5.13,9.528H48.25C57.5,33.558,39.224,17.1,25.365,29.218Z" fill="#fff"/>
+      <path id="Path_53" data-name="Path 53" d="M77.486,208.983l-4.157-7.72-5.879,12.41a1.488,1.488,0,0,1-2.6.162l-4.26-6.694-1.141,1.9a1.487,1.487,0,0,1-1.275.722h-9.43c.3.309-1.28-1.263,19.484,19.393a1.487,1.487,0,0,0,2.1,0c20.444-20.339,19.189-19.085,19.484-19.393H78.8A1.487,1.487,0,0,1,77.486,208.983Z" transform="translate(-43.914 -158.785)" fill="#fff"/>
+    </g>
+    <g id="sleep" transform="translate(1173 77)" opacity="0.89">
+      <g id="Group_299" data-name="Group 299" transform="translate(10 5.173)">
+        <g id="Group_298" data-name="Group 298">
+          <path id="Path_54" data-name="Path 54" d="M42.375,86.1a16.841,16.841,0,0,1-9.417-30.8q-.778-.057-1.572-.057A21.387,21.387,0,1,0,51.721,83.273,16.76,16.76,0,0,1,42.375,86.1Z" transform="translate(-10 -55.244)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_301" data-name="Group 301" transform="translate(45.274)">
+        <g id="Group_300" data-name="Group 300">
+          <path id="Path_55" data-name="Path 55" d="M391.616,8.8,396.86,0h-9.6V2.809h4.652l-5.244,8.8h10.8V8.8Z" transform="translate(-386.672)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_303" data-name="Group 303" transform="translate(33.199 10.7)">
+        <g id="Group_302" data-name="Group 302">
+          <path id="Path_56" data-name="Path 56" d="M266.726,114.257h-8.676v2.809h3.733l-4.047,6.793h8.9V121.05h-3.955Z" transform="translate(-257.735 -114.257)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_305" data-name="Group 305" transform="translate(42.474 22.367)">
+        <g id="Group_304" data-name="Group 304">
+          <path id="Path_57" data-name="Path 57" d="M361.725,243.143l2.561-4.3h-7.25v2.809h2.306l-2.561,4.3h7.607v-2.809Z" transform="translate(-356.781 -238.843)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="oxygen" transform="translate(1390 76.373)" opacity="0.89">
+      <g id="Group_306" data-name="Group 306" transform="translate(0 0.627)">
+        <path id="Path_58" data-name="Path 58" d="M22.326,6.374A19.51,19.51,0,1,0,41.837,25.883,19.529,19.529,0,0,0,22.326,6.374Zm0,35.516a16.009,16.009,0,1,1,16.01-16.011A16.026,16.026,0,0,1,22.326,41.89Z" transform="translate(1.559 2.553)" fill="#fff"/>
+        <circle id="Ellipse_140" data-name="Ellipse 140" cx="5.252" cy="5.252" r="5.252" transform="translate(0 5.469)" fill="#fff"/>
+        <circle id="Ellipse_141" data-name="Ellipse 141" cx="4.015" cy="4.015" r="4.015" transform="translate(37.4 5.469)" fill="#fff"/>
+        <circle id="Ellipse_142" data-name="Ellipse 142" cx="2.516" cy="2.516" r="2.516" transform="translate(44.858)" fill="#fff"/>
+        <circle id="Ellipse_143" data-name="Ellipse 143" cx="1.97" cy="1.97" r="1.97" transform="translate(13.13 1.532)" fill="#fff"/>
+        <path id="Path_59" data-name="Path 59" d="M14.527,13.623a7.722,7.722,0,0,0-5.713,2.05,7.744,7.744,0,0,0-2.052,5.733A8.5,8.5,0,0,0,7.8,25.794a6.315,6.315,0,0,0,2.7,2.566,9.657,9.657,0,0,0,4.211.809,8.463,8.463,0,0,0,4.18-.938,6.378,6.378,0,0,0,2.564-2.623,9.285,9.285,0,0,0,.887-4.326,7.593,7.593,0,0,0-2.032-5.646A7.858,7.858,0,0,0,14.527,13.623Zm2.349,11.1a2.866,2.866,0,0,1-2.317.974,2.857,2.857,0,0,1-2.3-1,5.035,5.035,0,0,1-.847-3.271,5.052,5.052,0,0,1,.853-3.291,2.823,2.823,0,0,1,2.257-1,2.938,2.938,0,0,1,2.324.98,4.65,4.65,0,0,1,.857,3.1A5.586,5.586,0,0,1,16.875,24.72Z" transform="translate(3.741 6.563)" fill="#fff"/>
+        <path id="Path_60" data-name="Path 60" d="M21.737,24.338c.188-.152.559-.485,1.118-.871a7.392,7.392,0,0,0,1.938-1.848,3.236,3.236,0,0,0,.531-1.752,2.739,2.739,0,0,0-1.738-2.575,6.14,6.14,0,0,0-2.272-.337,5.527,5.527,0,0,0-2.19.349,2.724,2.724,0,0,0-1.222,1,4.4,4.4,0,0,0-.6,1.822l2.769.227a2.041,2.041,0,0,1,.452-1.177,1.286,1.286,0,0,1,1.712-.009,1.034,1.034,0,0,1,.336.777,1.538,1.538,0,0,1-.339.888A8.133,8.133,0,0,1,20.68,22.2a11.872,11.872,0,0,0-2.71,2.429,18.43,18.43,0,0,0-.865,2.187h7.574V25.068h-3.6C21.329,25.07,21.549,24.49,21.737,24.338Z" transform="translate(9.463 8.406)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="footsteps-silhouette-variant" transform="translate(1214.345 77)" opacity="0.89">
+      <path id="Path_61" data-name="Path 61" d="M93,36.34c2.613.895,4.92,1.465,8.235,2.483C99.961,54.915,84.745,48.524,93,36.34Zm13.586-14.782c-.172-4.832-1.023-11.169-7.8-10.176-3.178.829-5.526,4.319-6.63,10.34a28.915,28.915,0,0,0,.462,10.743c.653,1.963.431,1.842,1.133,2.215,2.717.612,5.407,1.29,8.147,1.981C104.678,34.7,106.964,24.262,106.585,21.558Zm-20.919-.371a28.933,28.933,0,0,0,.461-10.743C85.023,4.423,82.675.933,79.5.1c-6.779-.993-7.63,5.345-7.8,10.177-.379,2.7,1.907,13.137,4.69,15.1,2.739-.691,5.429-1.368,8.147-1.981C85.234,23.03,85.012,23.15,85.665,21.187Zm-8.619,6.359c1.273,16.091,16.489,9.7,8.235-2.483C82.668,25.958,80.361,26.527,77.046,27.546Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <path id="voice" d="M8.9,45.821h3.9v-3.9H8.9Zm9.744-21.436a5.822,5.822,0,0,0,5.827-5.846l.019-11.692a5.846,5.846,0,1,0-11.692,0V18.539A5.838,5.838,0,0,0,18.641,24.385ZM16.692,45.821h3.9v-3.9h-3.9Zm7.795,0h3.9v-3.9h-3.9Zm7.795-27.282H28.969a10.111,10.111,0,0,1-10.328,9.938A10.111,10.111,0,0,1,8.313,18.539H5c0,6.645,5.3,12.141,11.692,13.1v6.392h3.9V31.634C26.982,30.679,32.282,25.184,32.282,18.539Z" transform="translate(1496 77)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" opacity="0.89"/>
+    <g id="frustration" transform="translate(1592 74)" opacity="0.89">
+      <path id="Path_62" data-name="Path 62" d="M24.871,17.186A6.186,6.186,0,1,1,18.686,11,6.186,6.186,0,0,1,24.871,17.186Z" transform="translate(5.754 6.906)" fill="#fff"/>
+      <path id="Path_63" data-name="Path 63" d="M18.221,10.211a.522.522,0,0,1-.513.626H15.482a.523.523,0,0,0-.507.649l1.23,4.922a.354.354,0,0,1-.615.313L8.458,8.161a.523.523,0,0,1,.4-.859h4.185L11.51,2.7a.53.53,0,0,1,.5-.7h4.132a.53.53,0,0,1,.52.426Z" transform="translate(2.559 0)" fill="#fff"/>
+      <path id="Path_64" data-name="Path 64" d="M19.633,2.426A.53.53,0,0,1,20.152,2h4.132a.531.531,0,0,1,.5.7L23.252,7.3h4.185a.523.523,0,0,1,.4.859L20.705,16.72a.354.354,0,0,1-.615-.313l1.23-4.922a.52.52,0,0,0-.505-.649H18.588a.522.522,0,0,1-.513-.626Z" transform="translate(10.024 0)" fill="#fff"/>
+      <path id="Path_65" data-name="Path 65" d="M42.9,22.418l-10.6,5.3L30.673,43.334a.529.529,0,0,1-.527.477H18.735a.532.532,0,0,1-.528-.477L16.581,27.72l-10.6-5.3a1.768,1.768,0,0,1-.459-2.829l7.069-7.069a1.767,1.767,0,1,1,2.5,2.5L9.75,20.354l8.038,4.017h13.3l8.038-4.019-5.335-5.335a1.767,1.767,0,1,1,2.5-2.5l7.069,7.069A1.767,1.767,0,0,1,42.9,22.418Z" transform="translate(0 7.673)" fill="#fff"/>
+    </g>
+    <g id="calories" transform="translate(1645.907 79)" opacity="0.89">
+      <path id="Path_66" data-name="Path 66" d="M213.648,356.661c-1.3.993-4,3.449-4,6.795a4,4,0,1,0,7.993,0C217.643,360.287,214.947,357.716,213.648,356.661Z" transform="translate(-141.231 -325.909)" fill="#fff"/>
+      <path id="Path_67" data-name="Path 67" d="M81.782,7.684A1.292,1.292,0,0,0,79.933,7.6l-6.086,5.68V1.38a1.426,1.426,0,0,0-2.1-1.2,41.64,41.64,0,0,0-8.3,7.058c-4.969,5.453-8.353,12.093-8.353,19.54A17.363,17.363,0,0,0,72.415,44.146a6.6,6.6,0,0,1-6.583-6.6c0-5.88,5.709-9.361,5.952-9.507a1.291,1.291,0,0,1,1.373.03C73.4,28.228,79,31.986,79,37.547a6.6,6.6,0,0,1-6.583,6.6A17.363,17.363,0,0,0,89.738,26.781C89.738,19.551,86.548,13.071,81.782,7.684Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <g id="music-notes-2" transform="translate(1804.673 78)" opacity="0.89">
+      <g id="Group_308" data-name="Group 308" transform="translate(16.312 10.904)">
+        <g id="Group_307" data-name="Group 307">
+          <path id="Path_68" data-name="Path 68" d="M209.108,121.046l-19.016,5.407a1.353,1.353,0,0,0-.981,1.3V146.17a5.345,5.345,0,0,0-2.7-.752,5.407,5.407,0,1,0,5.407,5.407v-13.94l16.312-4.635v8.512a5.345,5.345,0,0,0-2.7-.752,5.407,5.407,0,1,0,5.407,5.407V122.346A1.353,1.353,0,0,0,209.108,121.046Z" transform="translate(-181 -120.993)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_310" data-name="Group 310">
+        <g id="Group_309" data-name="Group 309">
+          <path id="Path_69" data-name="Path 69" d="M15.646,8.35c-2.648-1.625-4.831-3-4.831-7a1.352,1.352,0,1,0-2.7,0V25.176a5.345,5.345,0,0,0-2.7-.752,5.407,5.407,0,1,0,5.407,5.407V16.93a23.758,23.758,0,0,0,2.927,1.845c2.831,1.641,5.274,3.059,5.274,7a1.352,1.352,0,1,0,2.7,0V17.664C21.72,12.076,18.493,10.1,15.646,8.35Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="mattress" transform="translate(1854.936 74)" opacity="0.89">
+      <path id="Path_71" data-name="Path 71" d="M226,231.989a7.289,7.289,0,0,0,14.577,0c0-2.256-3.416-7.723-7.289-12.577C229.424,224.242,226,229.665,226,231.989Z" transform="translate(-152.103 -202.4)" fill="#fff"/>
+      <path id="Path_72" data-name="Path 72" d="M81.184,53l.491-.164a28.738,28.738,0,0,0,19.7-27.311V6.211H99.818c-3.236,0-5.829-1.416-8.572-2.916C88.282,1.676,85.216,0,81.186,0s-7.1,1.676-10.061,3.3c-2.743,1.5-5.336,2.916-8.572,2.916H61V25.525A28.767,28.767,0,0,0,80.693,52.835ZM67.211,25.525v-13.7A29.816,29.816,0,0,0,74.1,8.746c2.491-1.362,4.643-2.535,7.083-2.535s4.591,1.174,7.083,2.534a29.957,29.957,0,0,0,6.892,3.077v13.7a22.582,22.582,0,0,1-13.335,20.6l-.634.284-.634-.284a22.568,22.568,0,0,1-13.347-20.6Z" fill="#fff"/>
+    </g>
+    <g id="notification-2" transform="translate(1990.428 79)" opacity="0.89">
+      <path id="Path_73" data-name="Path 73" d="M193.071,470.791A6.327,6.327,0,0,0,198.86,467H187.281A6.327,6.327,0,0,0,193.071,470.791Z" transform="translate(-143.115 -427.654)" fill="#fff"/>
+      <path id="Path_74" data-name="Path 74" d="M63.015,20.883V18.114a13.082,13.082,0,0,0-9.268-12.5V3.791a3.791,3.791,0,1,0-7.583,0V5.617a13.082,13.082,0,0,0-9.268,12.5v2.769a19.844,19.844,0,0,1-5.546,13.8,1.264,1.264,0,0,0,.912,2.138H67.649a1.264,1.264,0,0,0,.912-2.138A19.844,19.844,0,0,1,63.015,20.883ZM51.219,5.116c-.416-.04-.837-.061-1.264-.061s-.848.021-1.264.061V3.791a1.264,1.264,0,0,1,2.528,0Z" fill="#fff"/>
+      <path id="Path_75" data-name="Path 75" d="M394.675,65.282a1.264,1.264,0,1,0,2.528,0,18.833,18.833,0,0,0-5.552-13.4,1.264,1.264,0,0,0-1.787,1.787A16.322,16.322,0,0,1,394.675,65.282Z" transform="translate(-328.29 -47.167)" fill="#fff"/>
+      <path id="Path_76" data-name="Path 76" d="M32.264,66.546a1.264,1.264,0,0,0,1.264-1.264A16.322,16.322,0,0,1,38.34,53.665a1.264,1.264,0,1,0-1.787-1.787A18.833,18.833,0,0,0,31,65.282,1.264,1.264,0,0,0,32.264,66.546Z" transform="translate(-0.001 -47.168)" fill="#fff"/>
+    </g>
+    <path id="missed-call" d="M25.317,14.978l3.4-3.4-3.4-3.4a1.816,1.816,0,1,1,2.568-2.57l3.4,3.4,3.4-3.4a1.816,1.816,0,1,1,2.568,2.57l-3.4,3.4,3.4,3.4a1.816,1.816,0,1,1-2.568,2.57l-3.4-3.4-3.4,3.4a1.816,1.816,0,1,1-2.568-2.57ZM10.057,0H9.873A3.008,3.008,0,0,0,8.856.209l-.09.036C7.374.8,3.287,2.306,2.275,3.319A7.957,7.957,0,0,0-.015,8.812a17.209,17.209,0,0,0,1.442,7c2.229,5.513,6.409,10.859,10.587,15.035s9.524,8.359,15.038,10.588a17.8,17.8,0,0,0,6.517,1.452q.241,0,.482-.01a7.953,7.953,0,0,0,5.494-2.289c1.021-1.022,2.521-5.086,3.07-6.486l.01-.025.037-.087a2.969,2.969,0,0,0-1.3-3.663l-7.335-4.234a2.994,2.994,0,0,0-4.084,1.093,5.031,5.031,0,0,1-3.286,2.576,4.815,4.815,0,0,1-3.967-.891,44.182,44.182,0,0,1-4.626-4.086,44.22,44.22,0,0,1-4.073-4.613A4.8,4.8,0,0,1,13.1,16.2a5.045,5.045,0,0,1,2.572-3.28,3,3,0,0,0,1.093-4.088L12.538,1.5A2.963,2.963,0,0,0,10.057,0Z" transform="translate(2116.293 79)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill-rule="evenodd" opacity="0.89"/>
+    <path id="path1888" d="M10.282.529a10.6,10.6,0,0,0-7.53,3.937C.757,6.959-.227,10.671,1.215,15.381,2.67,20.133,6.894,25.871,11.934,30.9c5.024,5.035,10.757,9.256,15.5,10.71,4.71,1.442,8.422.457,10.914-1.538a10.564,10.564,0,0,0,3.933-7.4,4.651,4.651,0,0,0-1.452-3.486,11.712,11.712,0,0,0-3.218-2.232,24.422,24.422,0,0,0-4.63-1.7.734.734,0,0,0-.654.185l-3.5,3.5a32.959,32.959,0,0,1-8.565-6.375,32.969,32.969,0,0,1-6.376-8.566l3.5-3.5a.7.7,0,0,0,.184-.654,24.351,24.351,0,0,0-1.7-4.632A11.71,11.71,0,0,0,13.64,1.985,4.777,4.777,0,0,0,10.282.529ZM22.118.536a.7.7,0,0,0,0,1.392A18.825,18.825,0,0,1,40.9,20.717a.7.7,0,0,0,1.392-.008A20.237,20.237,0,0,0,22.118.536Zm0,4.178a.7.7,0,0,0-.715.7.7.7,0,0,0,.715.695A14.638,14.638,0,0,1,36.724,20.717a.7.7,0,1,0,1.392-.008A16.049,16.049,0,0,0,22.118,4.714Zm0,4.176a.7.7,0,0,0,0,1.392,10.449,10.449,0,0,1,10.43,10.435.7.7,0,1,0,1.392-.008A11.862,11.862,0,0,0,22.118,8.89Z" transform="translate(2218.471 79.471)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" opacity="0.89"/>
+  </g>
+</svg>

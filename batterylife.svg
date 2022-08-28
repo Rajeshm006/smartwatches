@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1388.639" height="731.902" viewBox="0 0 1388.639 731.902">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.443"/>
+      <stop offset="1" stop-color="#53ff3b"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.973"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_363" data-name="Group 363" transform="translate(-626.521 -3003)">
+    <g id="Group_362" data-name="Group 362" transform="translate(-197.479 16)">
+      <text id="Size_of_the_bubble_represents_weight_of_the_watch" data-name="Size of the bubble represents weight of the watch" transform="translate(926 3019)" fill="#fff" font-size="30" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Size of the bubble represents weight of the watch</tspan></text>
+      <path id="Path_78" data-name="Path 78" d="M16.1,0A16.1,16.1,0,1,1,0,16.1,16.1,16.1,0,0,1,16.1,0Z" transform="translate(825.5 2990.5)" fill="#fff" stroke="#fff" stroke-width="3"/>
+      <text id="_" data-name="→" transform="translate(909 3020)" fill="#fff" font-size="34" font-family="LucidaGrande, Lucida Grande"><tspan x="-34" y="0">→</tspan></text>
+    </g>
+    <circle id="Ellipse_208" data-name="Ellipse 208" cx="15.503" cy="15.503" r="15.503" transform="translate(934.357 3149.315)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+    <circle id="Ellipse_209" data-name="Ellipse 209" cx="14.002" cy="14.002" r="14.002" transform="translate(935.857 3119)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+    <g id="Group_357" data-name="Group 357">
+      <line id="Line_424" data-name="Line 424" y2="13.866" transform="translate(860.886 3626.261)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_425" data-name="Line 425" y1="507.261" transform="translate(860.886 3119)" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+      <line id="Line_437" data-name="Line 437" y1="507.261" transform="translate(638.886 3119)" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+      <text id="_5" data-name="5" transform="translate(860.021 3646.151)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-9.86" y="0">5</tspan></text>
+      <text id="_0" data-name="0" transform="translate(638.021 3646.151)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-9.86" y="0">0</tspan></text>
+      <line id="Line_426" data-name="Line 426" y2="13.866" transform="translate(1087.363 3626.261)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_427" data-name="Line 427" y1="507.261" transform="translate(1087.363 3119)" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+      <text id="_10" data-name="10" transform="translate(1086.942 3646.151)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-19.72" y="0">10</tspan></text>
+      <line id="Line_428" data-name="Line 428" y2="13.866" transform="translate(1313.839 3626.261)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_429" data-name="Line 429" y1="507.261" transform="translate(1313.839 3119)" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+      <text id="_15" data-name="15" transform="translate(1313.419 3646.151)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-19.72" y="0">15</tspan></text>
+      <line id="Line_430" data-name="Line 430" y2="13.866" transform="translate(1542.627 3626.261)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_431" data-name="Line 431" y1="507.261" transform="translate(1542.627 3119)" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+      <text id="_20" data-name="20" transform="translate(1542.206 3646.151)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-19.72" y="0">20</tspan></text>
+      <line id="Line_432" data-name="Line 432" y2="13.866" transform="translate(1769.104 3626.261)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_433" data-name="Line 433" y1="507.261" transform="translate(1769.104 3119)" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+      <text id="_25" data-name="25" transform="translate(1768.683 3646.151)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-19.72" y="0">25</tspan></text>
+      <line id="Line_434" data-name="Line 434" y2="13.866" transform="translate(1995.58 3626.261)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_435" data-name="Line 435" y1="507.261" transform="translate(1995.58 3119)" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+      <text id="_30" data-name="30" transform="translate(1995.159 3646.151)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-19.72" y="0">30</tspan></text>
+      <text id="Battery_life_Avg_Days_" data-name="Battery_life_Avg_Days →" transform="translate(2011.481 3727.902)" fill="#fff" font-size="34" font-family="Lato-Regular, Lato"><tspan x="-371.926" y="0">Battery_life_Avg_Days </tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande">→</tspan></text>
+      <circle id="Ellipse_179" data-name="Ellipse 179" cx="34.665" cy="34.665" r="34.665" transform="translate(1007.634 3516.83)" fill="#59a14f" stroke="#59a14f" stroke-width="1.5"/>
+      <circle id="Ellipse_180" data-name="Ellipse 180" cx="22.493" cy="22.493" r="22.493" transform="translate(973.585 3491.58)" fill="#76b7b2" stroke="#76b7b2" stroke-width="1.5"/>
+      <circle id="Ellipse_181" data-name="Ellipse 181" cx="21.041" cy="21.041" r="21.041" transform="translate(838.69 3544.078)" fill="#bab0ab" stroke="#bab0ab" stroke-width="1.5"/>
+      <circle id="Ellipse_182" data-name="Ellipse 182" cx="19.48" cy="19.48" r="19.48" transform="translate(1066.728 3496.528)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+      <circle id="Ellipse_183" data-name="Ellipse 183" cx="18.987" cy="18.987" r="18.987" transform="translate(840.744 3503.793)" fill="#76b7b2" stroke="#76b7b2" stroke-width="1.5"/>
+      <circle id="Ellipse_184" data-name="Ellipse 184" cx="18.48" cy="18.48" r="18.48" transform="translate(931.379 3549.199)" fill="#f28e2c" stroke="#f28e2c" stroke-width="1.5"/>
+      <circle id="Ellipse_185" data-name="Ellipse 185" cx="18.48" cy="18.48" r="18.48" transform="translate(931.379 3509.927)" fill="#f28e2c" stroke="#f28e2c" stroke-width="1.5"/>
+      <circle id="Ellipse_186" data-name="Ellipse 186" cx="17.96" cy="17.96" r="17.96" transform="translate(1294.724 3550.24)" fill="#76b7b2" stroke="#76b7b2" stroke-width="1.5"/>
+      <circle id="Ellipse_187" data-name="Ellipse 187" cx="17.783" cy="17.783" r="17.783" transform="translate(932.077 3472.051)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+      <circle id="Ellipse_188" data-name="Ellipse 188" cx="17.783" cy="17.783" r="17.783" transform="translate(932.077 3434.175)" fill="#76b7b2" stroke="#76b7b2" stroke-width="1.5"/>
+      <circle id="Ellipse_189" data-name="Ellipse 189" cx="17.783" cy="17.783" r="17.783" transform="translate(705.6 3550.594)" fill="#f28e2c" stroke="#f28e2c" stroke-width="1.5"/>
+      <circle id="Ellipse_190" data-name="Ellipse 190" cx="17.423" cy="17.423" r="17.423" transform="translate(1704.305 3551.313)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+      <circle id="Ellipse_191" data-name="Ellipse 191" cx="17.423" cy="17.423" r="17.423" transform="translate(1295.261 3513.082)" fill="#ff9da7" stroke="#ff9da7" stroke-width="1.5"/>
+      <circle id="Ellipse_192" data-name="Ellipse 192" cx="17.241" cy="17.241" r="17.241" transform="translate(1025.058 3480.037)" fill="#af7aa1" stroke="#af7aa1" stroke-width="1.5"/>
+      <circle id="Ellipse_193" data-name="Ellipse 193" cx="17.241" cy="17.241" r="17.241" transform="translate(932.618 3397.382)" fill="#76b7b2" stroke="#76b7b2" stroke-width="1.5"/>
+      <circle id="Ellipse_194" data-name="Ellipse 194" cx="17.241" cy="17.241" r="17.241" transform="translate(978.838 3454.787)" fill="#76b7b2" stroke="#76b7b2" stroke-width="1.5"/>
+      <circle id="Ellipse_195" data-name="Ellipse 195" cx="17.057" cy="17.057" r="17.057" transform="translate(1977.368 3552.046)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+      <circle id="Ellipse_196" data-name="Ellipse 196" cx="17.057" cy="17.057" r="17.057" transform="translate(932.803 3360.958)" fill="#edc949" stroke="#edc949" stroke-width="1.5"/>
+      <circle id="Ellipse_197" data-name="Ellipse 197" cx="16.87" cy="16.87" r="16.87" transform="translate(979.209 3418.736)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+      <circle id="Ellipse_198" data-name="Ellipse 198" cx="16.87" cy="16.87" r="16.87" transform="translate(932.989 3324.906)" fill="#76b7b2" stroke="#76b7b2" stroke-width="1.5"/>
+      <circle id="Ellipse_199" data-name="Ellipse 199" cx="16.87" cy="16.87" r="16.87" transform="translate(932.989 3288.855)" fill="#f28e2c" stroke="#f28e2c" stroke-width="1.5"/>
+      <circle id="Ellipse_200" data-name="Ellipse 200" cx="16.87" cy="16.87" r="16.87" transform="translate(1069.337 3460.477)" fill="#f28e2c" stroke="#f28e2c" stroke-width="1.5"/>
+      <circle id="Ellipse_201" data-name="Ellipse 201" cx="16.87" cy="16.87" r="16.87" transform="translate(932.989 3252.804)" fill="#f28e2c" stroke="#f28e2c" stroke-width="1.5"/>
+      <circle id="Ellipse_202" data-name="Ellipse 202" cx="16.87" cy="16.87" r="16.87" transform="translate(932.989 3216.753)" fill="#af7aa1" stroke="#af7aa1" stroke-width="1.5"/>
+      <circle id="Ellipse_203" data-name="Ellipse 203" cx="15.905" cy="15.905" r="15.905" transform="translate(1978.519 3517.925)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+      <circle id="Ellipse_204" data-name="Ellipse 204" cx="15.905" cy="15.905" r="15.905" transform="translate(1978.519 3483.803)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+      <circle id="Ellipse_205" data-name="Ellipse 205" cx="15.905" cy="15.905" r="15.905" transform="translate(933.954 3182.631)" fill="#76b7b2" stroke="#76b7b2" stroke-width="1.5"/>
+      <circle id="Ellipse_206" data-name="Ellipse 206" cx="15.905" cy="15.905" r="15.905" transform="translate(1296.779 3478.961)" fill="#e15759" stroke="#e15759" stroke-width="1.5"/>
+      <circle id="Ellipse_207" data-name="Ellipse 207" cx="15.685" cy="15.685" r="15.685" transform="translate(1070.522 3426.796)" fill="#af7aa1" stroke="#af7aa1" stroke-width="1.5"/>
+      <circle id="Ellipse_210" data-name="Ellipse 210" cx="11.524" cy="11.524" r="11.524" transform="translate(1074.683 3563.11)" fill="#9c755f" stroke="#9c755f" stroke-width="1.5"/>
+      <circle id="Ellipse_211" data-name="Ellipse 211" cx="11.247" cy="11.247" r="11.247" transform="translate(1257.529 3563.666)" fill="#4e79a7" stroke="#4e79a7" stroke-width="1.5"/>
+      <g id="battery-status-full" transform="translate(1614.095 3585.206) rotate(90)">
+        <path id="Path_77" data-name="Path 77" d="M143.475,4.147h-5.558V0H123.4V4.147h-5.272a6.228,6.228,0,0,0-6.221,6.221v55.3a6.228,6.228,0,0,0,6.221,6.221h25.346a6.228,6.228,0,0,0,6.221-6.221v-55.3A6.227,6.227,0,0,0,143.475,4.147Zm2.075,61.521a2.076,2.076,0,0,1-2.075,2.073H118.129a2.075,2.075,0,0,1-2.074-2.073v-55.3a2.077,2.077,0,0,1,2.074-2.074h25.346a2.077,2.077,0,0,1,2.075,2.074Zm-2.262-.381H118.316v-9.1h24.971v9.1Zm0-11.34H118.316v-9.1h24.971v9.1Zm0-11.34H118.316v-9.1h24.971v9.1Zm0-11.315H118.316v-9.1h24.971v9.1Zm0-11.341H118.316v-9.1h24.971v9.1Z" fill="#fff"/>
+      </g>
+    </g>
+    <rect id="Rectangle_479" data-name="Rectangle 479" width="228" height="508" transform="translate(859 3119)" opacity="0.437" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
