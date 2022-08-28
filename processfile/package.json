@@ -1,0 +1,14 @@
+{
+  "name": "@rajeshm006/smart-watches-visualisation",
+  "main": "16df937a98a34251@958.js",
+  "version": "958.0.0",
+  "homepage": "https://observablehq.com/@rajeshm006/smart-watches-visualisation",
+  "author": {
+    "name": "Rajesh Manoharan",
+    "url": "https://observablehq.com/@rajeshm006"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
