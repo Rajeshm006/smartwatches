@@ -4,8 +4,13 @@
     }
     
     html{
-       font-family: 'Merriweather', serif;
-       font-family: 'Oswald', sans-serif;
+       /* font-family: 'Merriweather', serif;
+       font-family: 'Oswald', sans-serif; */
+       font-weight: Thin;
+       font-family: 'Lato', sans-serif;
+       
+
+      
     }
     
     body{
@@ -18,21 +23,32 @@
     }
     
     header{
-        margin-top: 60px;
-        margin-bottom: 30px;
+        max-width: 60ch;
+        margin: 0 auto;
+
         text-align: center;
         justify-content: center;
     
         padding: 2px 0;
   text-align: center;
-  /* background-color: rgb(255, 253, 151); */
-  /* color: white; */
+  background-color: #171717; 
+  color: white; 
 
     }
     
     p{
+       
         font-family: 'Merriweather', serif;
-        line-height: 1.5;
+        
+        color: white;
+        text-align: justify;
+    }
+
+    h3{
+        
+        font-family: 'Oswald', sans-serif;
+        color: white;
+        text-align: center;
     }
     nav{
         display: flex;
@@ -40,13 +56,31 @@
         gap: 40px;
     }
 
-    nav > a {
+
+      nav > a {
         color: rgb(255, 255, 255);
       }
+      nav > a:hower {
+        color: #73D6CF;
+     
+      }
+    
 
       main {
-        max-width: 80ch;
+        max-width: 60ch;
         margin: 0 auto;
+      }
+
+      object{
+        /* width: 200px;
+        height: 300px; */
+        margin: auto;
+        width: 100%;
+    
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        gap: 40px;
       }
 
       
@@ -58,7 +92,38 @@
         gap: 20px;
     
     }
+
+    #highlight
+    {
+        font-family: 'Oswald', sans-serif;
+        color: #73D6CF;
+        
+        text-align: center;
+
+    }
+
+    #Subtext
+    {
+       
+        font-family: 'Merriweather', serif;
+        font-size: 15px;
+        color: rgba(255, 255, 255, 0.486);
+        text-align: center;
+    }
     
+    
+    #lineprop{
+        /* width: 200px;
+        height: 300px; */
+        margin: auto;
+        width: 60%;
+    
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+      }
+
    
 
     /* img{
