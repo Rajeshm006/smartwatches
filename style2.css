@@ -4,7 +4,8 @@
     }
     
     html{
-        font-family: 'Lato', sans-serif;
+       font-family: 'Merriweather', serif;
+       font-family: 'Oswald', sans-serif;
     }
     
     body{
@@ -17,18 +18,22 @@
     }
     
     header{
-        /* margin-top: 60px;
+        margin-top: 60px;
         margin-bottom: 30px;
         text-align: center;
-        justify-content: center; */
+        justify-content: center;
     
         padding: 2px 0;
   text-align: center;
-  background-color: rgb(255, 253, 151);
-  color: white;
+  /* background-color: rgb(255, 253, 151); */
+  /* color: white; */
 
     }
     
+    p{
+        font-family: 'Merriweather', serif;
+        line-height: 1.5;
+    }
     nav{
         display: flex;
         justify-content: center;
@@ -36,7 +41,7 @@
     }
 
     nav > a {
-        color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
       }
 
       main {
@@ -56,10 +61,10 @@
     
    
 
-    img{
+    /* img{
         
         border-radius: 8px;
         width: 150px;
         
-    }
+    } */
     
